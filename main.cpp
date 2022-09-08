@@ -27,7 +27,7 @@ void str_remove_quotes(std::string &s)
 
 
 void compute_cell_number_per_tissue(std::vector<std::string> &row_info, std::string cell_info_folder, 
-                                    std::unordered_map<std::string, Surface_mesh> &meshes_AS, std::ofstream &points_file)
+                                    std::unordered_map<std::string, Surface_mesh> &meshes_AS)
 {
 
     // parse row information
@@ -38,6 +38,9 @@ void compute_cell_number_per_tissue(std::vector<std::string> &row_info, std::str
     double percentage_of_tissue = std::stod(row_info[4]);
     Surface_mesh &mesh = meshes_AS[renal_pyramid];
 
+    std::ofstream points_file;
+    points_file.open("./data/output/cells_" + tissue_block_id + ".csv");
+    points_file << "tissue_block_id" << "," << "dataset_id" << "," << "renal_pyramid" << "," << "cell_type" << "," << "x" << "," << "y" << "," <<  "z" << "\n";
 
     std::string cell_info_path = cell_info_folder + "/" + dataset_id + ".csv";
     std::ifstream tissue_cell_info_csv(cell_info_path);
@@ -73,6 +76,8 @@ void compute_cell_number_per_tissue(std::vector<std::string> &row_info, std::str
         
 
     }
+
+    points_file.close();
 
 }
 
@@ -119,9 +124,6 @@ int main(int argc, char **argv)
     std::vector<std::string> row;
     std::string word;
 
-    std::ofstream points_file;
-    points_file.open("cells.csv");
-
     while (std::getline(specification_csv, line))
     {
         row.clear();
@@ -132,12 +134,10 @@ int main(int argc, char **argv)
             row.push_back(word);
         }
 
-        compute_cell_number_per_tissue(row, cell_info_folder, meshes_AS, points_file);
+        compute_cell_number_per_tissue(row, cell_info_folder, meshes_AS);
 
 
     }
-
-    points_file.close();
 
 
 
