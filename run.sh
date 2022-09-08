@@ -1,0 +1,1 @@
+./build/cell_generator /home/catherine/data/model/plain_filling_hole/ ./data/cell_info_csv/ ./data/specification.csv
