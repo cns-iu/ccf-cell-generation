@@ -14,6 +14,7 @@ Surface_mesh load_mesh(std::string file_path)
     {
         std::cerr << file_path << " Not a valid mesh" << std::endl;
     }
+    std::cout << file_path << PMP::volume(mesh) * 1e9 << std::endl;
     return mesh;
 }
 
@@ -37,6 +38,8 @@ void compute_cell_number_per_tissue(std::vector<std::string> &row_info, std::str
     double percentage_of_AS = std::stod(row_info[3]);
     double percentage_of_tissue = std::stod(row_info[4]);
     Surface_mesh &mesh = meshes_AS[renal_pyramid];
+
+    Surface_mesh point_mesh;
 
     std::ofstream points_file;
     points_file.open("./data/output/cells_" + tissue_block_id + ".csv");
@@ -71,13 +74,18 @@ void compute_cell_number_per_tissue(std::vector<std::string> &row_info, std::str
         for (auto p: points)
         {
             points_file << tissue_block_id << "," << dataset_id << "," << renal_pyramid << "," << cell_type << "," << p[0] << "," << p[1] << "," << p[2] << "\n"; 
+            point_mesh.add_vertex(p);
         }
         // cell_type_map[renal_pyramid][cell_type] = count;
         
-
+        
     }
 
     points_file.close();
+
+    std::ofstream point_mesh_off("point_mesh.off");
+    point_mesh_off << point_mesh;
+    point_mesh_off.close();
 
 }
 
