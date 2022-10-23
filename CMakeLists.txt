@@ -15,10 +15,14 @@ add_executable(cell_generator main.cpp cell_generation.cpp)
 target_include_directories(cell_generator PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
 target_link_libraries(cell_generator CGAL::CGAL)
 
+add_executable(cell_generator_imperfect imperfect_mesh.cpp cell_generation.cpp)
+target_include_directories(cell_generator_imperfect PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
+target_link_libraries(cell_generator_imperfect CGAL::CGAL)
 
 if(Boost_FOUND)
     include_directories(${Boost_INCLUDE_DIRS}) 
     target_link_libraries(cell_generator ${Boost_LIBRARIES})
+    target_link_libraries(cell_generator_imperfect ${Boost_LIBRARIES})
 endif()
 
 
