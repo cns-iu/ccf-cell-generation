@@ -19,10 +19,18 @@ add_executable(cell_generator_imperfect imperfect_mesh.cpp cell_generation.cpp)
 target_include_directories(cell_generator_imperfect PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
 target_link_libraries(cell_generator_imperfect CGAL::CGAL)
 
+add_executable(all_AS random_generate_all_AS.cpp cell_generation.cpp)
+target_include_directories(all_AS PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
+target_link_libraries(all_AS CGAL::CGAL)
+
+add_executable(compute_AS AS_number_per_organ.cpp)
+
 if(Boost_FOUND)
     include_directories(${Boost_INCLUDE_DIRS}) 
     target_link_libraries(cell_generator ${Boost_LIBRARIES})
     target_link_libraries(cell_generator_imperfect ${Boost_LIBRARIES})
+    target_link_libraries(all_AS ${Boost_LIBRARIES})
+    target_link_libraries(compute_AS ${Boost_LIBRARIES})
 endif()
 
 
