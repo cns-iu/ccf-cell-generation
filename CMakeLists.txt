@@ -25,18 +25,30 @@ target_link_libraries(all_AS CGAL::CGAL)
 
 add_executable(compute_AS AS_number_per_organ.cpp)
 
+# CTPop
+add_executable(generate_cell_ctpop generate_cell_ctpop.cpp cell_generation.cpp)
+target_include_directories(generate_cell_ctpop PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
+target_link_libraries(generate_cell_ctpop CGAL::CGAL)
+
+# CTPop skin
+add_executable(generate_cell_skin generate_cell_skin.cpp cell_generation.cpp)
+target_include_directories(generate_cell_skin PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
+target_link_libraries(generate_cell_skin CGAL::CGAL)
+
 if(Boost_FOUND)
     include_directories(${Boost_INCLUDE_DIRS}) 
     target_link_libraries(cell_generator ${Boost_LIBRARIES})
     target_link_libraries(cell_generator_imperfect ${Boost_LIBRARIES})
     target_link_libraries(all_AS ${Boost_LIBRARIES})
     target_link_libraries(compute_AS ${Boost_LIBRARIES})
+    target_link_libraries(generate_cell_ctpop ${Boost_LIBRARIES})
+    target_link_libraries(generate_cell_skin ${Boost_LIBRARIES})
 endif()
-
 
 add_executable(merger merge.cpp cell_generation.cpp)
 target_include_directories(merger PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
 target_link_libraries(merger CGAL::CGAL)
+
 if(Boost_FOUND)
     include_directories(${Boost_INCLUDE_DIRS}) 
     target_link_libraries(merger ${Boost_LIBRARIES})
