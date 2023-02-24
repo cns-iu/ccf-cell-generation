@@ -28,6 +28,9 @@ std::vector<Point> skin_cells_within_d(std::vector<Triangle> &triangles, double 
     while (count --)
     {
         double distance = ((double) rand() / RAND_MAX) * d;
+        // double distance = d;
+        // std::cout << distance << std::endl;
+
         double a = (double) rand() / RAND_MAX;
         double b = (double) rand() / RAND_MAX;
         double c;
@@ -45,7 +48,8 @@ std::vector<Point> skin_cells_within_d(std::vector<Triangle> &triangles, double 
         Vector v3 = Vector(p3[0], p3[1], p3[2]);
 
         Vector p = a * v1 + b * v2 + c * v3;
-        Vector q = p + CGAL::normal(p1, p2, p3) * distance; 
+        Vector normal = CGAL::unit_normal(p1, p2, p3);
+        Vector q = p - normal * distance; 
 
         result.push_back(Point(q[0], q[1], q[2]));
 
@@ -59,34 +63,105 @@ int main(int argc, char **argv)
 {
     srand(time(0));
 
-    auto skin_path = std::string(argv[1]);
-    double thickness = std::stod(argv[2]);
-    int count = std::stoi(argv[3]);
 
+    // int count = std::stoi(argv[3]);
+    
+    auto body_path = argv[1];
+    auto specification_file_path = argv[2];
+    double thickness = std::stod(argv[3]);
 
-    Surface_mesh mesh = load_mesh(skin_path);
+    std::ifstream specification_csv(specification_file_path);
+    if (!specification_csv.is_open()) throw std::runtime_error("could not open specification table!");
 
-    std::vector<Triangle> triangles;
+    std::string line;
+    std::getline(specification_csv, line);
+    std::vector<std::string> row;
+    std::string word;
 
-    for (auto f: mesh.faces())
+    while (std::getline(specification_csv, line))
     {
+        row.clear();
+        std::stringstream ss(line);
 
-        halfedge_descriptor hd = halfedge(f, mesh);
-        Point p1 = mesh.point(source(hd, mesh));
-        Point p2 = mesh.point(target(hd, mesh));
-        Point p3 = mesh.point(target(next(hd, mesh), mesh));
-        triangles.push_back(Triangle(p1, p2, p3));
+        while (std::getline(ss, word, ','))
+        {
+            row.push_back(word);
+        }
+
+        std::string organ = row[0];
+        std::string AS = row[1];
+        std::string cell_type = row[2];
+        int count = std::stod(row[3]);
+
+        fs::path tmp = fs::path(body_path) / fs::path(organ) / fs::path(AS);
+        std::string file_path = tmp.string() + ".off";
+
+        if (!fs::exists(file_path)) 
+        {
+            std::cout << file_path << " not exist" << std::endl;
+            continue; 
+        }
+
+        // for testing, use count/100
+        if (organ.find("Skin") != std::string::npos)
+        {
+            count = count / 100;
+            std::cout << "generating " << cell_type << " count " << count << std::endl;
+            Surface_mesh mesh = load_mesh(file_path);
+
+            std::vector<Triangle> triangles;
+
+            for (auto f: mesh.faces())
+            {
+
+                halfedge_descriptor hd = halfedge(f, mesh);
+                Point p1 = mesh.point(source(hd, mesh));
+                Point p2 = mesh.point(target(hd, mesh));
+                Point p3 = mesh.point(target(next(hd, mesh), mesh));
+                triangles.push_back(Triangle(p1, p2, p3));
+
+            }
+
+            auto points = skin_cells_within_d(triangles, thickness, count);
+
+            std::string output_csv_file = "cell_location_" + AS + ".csv"; 
+            std::ofstream points_csv;
+            points_csv.open(output_csv_file);
+            points_csv << "organ, anatomical structure, cell_type, x, y, z\n";
+            for (auto &p: points)
+            {
+                points_csv << organ << "," << AS << "," << cell_type << "," << p[0] << "," << p[1] << "," << p[2] << "\n";
+            }
+            points_csv.close();
+
+        }
+
+
+        // for (auto &p: points)
+        // {
+        //     points_csv << organ << "," << AS << "," << cell_type << "," << p[0] << "," << p[1] << "," << p[2] << "\n";
+
+        //     if (AS == "VH_M_outer_cortex_of_kidney_R")
+        //         point_mesh.add_vertex(p);
+        // }
 
     }
 
-    auto result = skin_cells_within_d(triangles, thickness, count);
+    // std::ofstream point_mesh_off("point_mesh.off");
+    // point_mesh_off << point_mesh;
+    // point_mesh_off.close();
+    // points_csv.close();
 
-    Surface_mesh point_mesh;
 
-    for (Point &p: result) point_mesh.add_vertex(p);
+    // auto result = skin_cells_within_d(triangles, thickness, count);
 
-    std::ofstream point_mesh_off("point_mesh.off");
-    point_mesh_off << point_mesh;
-    point_mesh_off.close();
+    // Surface_mesh point_mesh;
+
+    // for (Point &p: result) point_mesh.add_vertex(p);
+
+    // std::string output_path = "point_mesh_" + std::string(argv[2]) + ".off";
+    // std::ofstream point_mesh_off(output_path);
+    // point_mesh_off << point_mesh;
+    // point_mesh_off.close();
 
 }

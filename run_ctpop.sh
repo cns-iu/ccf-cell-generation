@@ -1,0 +1,1 @@
+./build/generate_cell_ctpop /home/catherine/data/model/plain_manifold_filling_hole_v1.2 ./scripts/csv/cell_type_count_per_AS.csv
