@@ -1,0 +1,230 @@
+VH_F_Ureter_L,VH_F_left_ureter,Afferent / Efferent Arteriole Endothelial,41
+VH_F_Ureter_L,VH_F_left_ureter,Ascending Thin Limb,47
+VH_F_Ureter_L,VH_F_left_ureter,Ascending Vasa Recta Endothelial,64
+VH_F_Ureter_L,VH_F_left_ureter,Classical Dendritic,282
+VH_F_Ureter_L,VH_F_left_ureter,Connecting Tubule,49051
+VH_F_Ureter_L,VH_F_left_ureter,Connecting Tubule Intercalated Type A,1082
+VH_F_Ureter_L,VH_F_left_ureter,Cortical Collecting Duct Principal,8386
+VH_F_Ureter_L,VH_F_left_ureter,Cortical Vascular Smooth Muscle / Pericyte,4175
+VH_F_Ureter_L,VH_F_left_ureter,Cycling Mononuclear Phagocyte,282
+VH_F_Ureter_L,VH_F_left_ureter,Descending Thin Limb Type 1,6581
+VH_F_Ureter_L,VH_F_left_ureter,Descending Thin Limb Type 2,1223
+VH_F_Ureter_L,VH_F_left_ureter,Descending Vasa Recta Endothelial ,2740
+VH_F_Ureter_L,VH_F_left_ureter,Distal Convoluted Tubule Type 1,1558
+VH_F_Ureter_L,VH_F_left_ureter,Fibroblast,54638
+VH_F_Ureter_L,VH_F_left_ureter,Inner Medullary Collecting Duct,426543
+VH_F_Ureter_L,VH_F_left_ureter,Intercalated Type B,4658
+VH_F_Ureter_L,VH_F_left_ureter,Lymphatic Endothelial,376
+VH_F_Ureter_L,VH_F_left_ureter,M2 Macrophage,793
+VH_F_Ureter_L,VH_F_left_ureter,Mast,799
+VH_F_Ureter_L,VH_F_left_ureter,Medullary Fibroblast,13221
+VH_F_Ureter_L,VH_F_left_ureter,Mesangial,858
+VH_F_Ureter_L,VH_F_left_ureter,Monocyte-derived,94
+VH_F_Ureter_L,VH_F_left_ureter,Non-classical monocyte,235
+VH_F_Ureter_L,VH_F_left_ureter,Papillary Tip Epithelial,53038
+VH_F_Ureter_L,VH_F_left_ureter,Parietal Epithelial,4369
+VH_F_Ureter_L,VH_F_left_ureter,Peritubular Capilary Endothelial ,4928
+VH_F_Ureter_L,VH_F_left_ureter,Podocyte,47
+VH_F_Ureter_L,VH_F_left_ureter,Renin-positive Juxtaglomerular Granular,47
+VH_F_Ureter_L,VH_F_left_ureter,T,47
+VH_F_Ureter_L,VH_F_left_ureter,Vascular Smooth Muscle / Pericyte,388
+VH_F_Ureter_L,VH_F_left_ureter,Outer Medullary Collecting Duct Intercalated Type A,282
+VH_F_Ureter_L,VH_F_left_ureter,Schwann / Neural,70
+VH_M_Ureter_L,VH_M_ureter_L,Afferent / Efferent Arteriole Endothelial,1964
+VH_M_Ureter_L,VH_M_ureter_L,Connecting Tubule,1559352
+VH_M_Ureter_L,VH_M_ureter_L,Cortical Vascular Smooth Muscle / Pericyte,44046
+VH_M_Ureter_L,VH_M_ureter_L,Descending Thin Limb Type 1,66302
+VH_M_Ureter_L,VH_M_ureter_L,Descending Thin Limb Type 3,1388
+VH_M_Ureter_L,VH_M_ureter_L,Fibroblast,294003
+VH_M_Ureter_L,VH_M_ureter_L,Inner Medullary Collecting Duct,3468896
+VH_M_Ureter_L,VH_M_ureter_L,M2 Macrophage,74115
+VH_M_Ureter_L,VH_M_ureter_L,Medullary Fibroblast,137747
+VH_M_Ureter_L,VH_M_ureter_L,Papillary Tip Epithelial,334834
+VH_M_Ureter_L,VH_M_ureter_L,Descending Thin Limb Type 2,100
+VH_M_Ureter_L,VH_M_ureter_L,Descending Vasa Recta Endothelial ,3411
+VH_M_Ureter_L,VH_M_ureter_L,Distal Convoluted Tubule Type 1,24157
+VH_M_Ureter_L,VH_M_ureter_L,Lymphatic Endothelial,4115
+VH_M_Ureter_L,VH_M_ureter_L,Mast,569
+VH_M_Ureter_L,VH_M_ureter_L,Mesangial,4503
+VH_M_Ureter_L,VH_M_ureter_L,Monocyte-derived,387
+VH_M_Ureter_L,VH_M_ureter_L,Parietal Epithelial,3909
+VH_M_Ureter_L,VH_M_ureter_L,Peritubular Capilary Endothelial ,3623
+VH_M_Ureter_L,VH_M_ureter_L,Plasma,469
+VH_M_Ureter_L,VH_M_ureter_L,Podocyte,1351
+VH_M_Ureter_L,VH_M_ureter_L,Schwann / Neural,15719
+VH_M_Ureter_L,VH_M_ureter_L,Vascular Smooth Muscle / Pericyte,70287
+VH_M_Ureter_L,VH_M_ureter_L,Neutrophil,100
+VH_M_Ureter_L,VH_M_ureter_L,Non-classical monocyte,1401
+VH_M_Ureter_L,VH_M_ureter_L,T,268
+VH_M_Ureter_L,VH_M_ureter_L,Connecting Tubule Principal,337
+VH_M_Ureter_L,VH_M_ureter_L,Cortical Collecting Duct Principal,2702
+VH_M_Ureter_L,VH_M_ureter_L,Outer Medullary Collecting Duct Principal,144571
+VH_M_Ureter_L,VH_M_ureter_L,Ascending Thin Limb,337
+VH_M_Ureter_L,VH_M_ureter_L,Ascending Vasa Recta Endothelial,675
+VH_M_Ureter_L,VH_M_ureter_L,Proximal Tubule Epithelial Segment 3,337
+VH_M_Ureter_L,VH_M_ureter_L,Renin-positive Juxtaglomerular Granular,337
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Afferent / Efferent Arteriole Endothelial,16729
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Ascending Vasa Recta Endothelial,9703
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Connecting Tubule,5254128
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Connecting Tubule Intercalated Type A,9034
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Connecting Tubule Principal,408539
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Cortical Collecting Duct Intercalated Type A,871951
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Cortical Collecting Duct Principal,240573
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Cortical Thick Ascending Limb,1041925
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Cortical Vascular Smooth Muscle / Pericyte,59892
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Descending Vasa Recta Endothelial,15391
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Distal Convoluted Tubule Type 1,3887646
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Distal Convoluted Tubule Type 2,70933
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Fibroblast,228527
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Glomerular Capillary Endothelial,103389
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Intercalated Type B,157928
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Macula Densa,325225
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Medullary Thick Ascending Limb,260648
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Monocyte,14052
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Monocyte-derived,89336
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Natural Killer / Natural Killer T,14387
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Outer Medullary Collecting Duct Principal,19071
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Parietal Epithelial,114765
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Peritubular Capilary Endothelial,261987
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Podocyte,113761
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Proximal Tubule Epithelial Segment 1,3657111
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Proximal Tubule Epithelial Segment 2,518285
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Proximal Tubule Epithelial Segment 3,482484
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,T,206444
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Tissue-resident Macrophage,85990
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Vascular Smooth Muscle / Pericyte,34128
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Ascending Thin Limb,9703
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Descending Thin Limb Type 1,162612
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Descending Thin Limb Type 2,671195
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Inner Medullary Collecting Duct,1091779
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,M2 Macrophage,53535
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Outer Medullary Collecting Duct Intercalated Type A,75618
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Peritubular Capilary Endothelial ,121122
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,B,125807
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Classical Dendritic,14722
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Cycling Mononuclear Phagocyte,5353
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Lymphatic Endothelial,20075
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Mast,12045
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Mesangial,40151
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Neutrophil,17398
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Papillary Tip Epithelial,1338
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Plasma,26767
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Plasmacytoid Dendritic,11376
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Descending Vasa Recta Endothelial ,1338
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Medullary Fibroblast,6691
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Renin-positive Juxtaglomerular Granular,2676
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Schwann / Neural,5353
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Descending Thin Limb Type 3,21414
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Afferent / Efferent Arteriole Endothelial,131
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Ascending Thin Limb,682
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Ascending Vasa Recta Endothelial,1548
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Classical Dendritic,26
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Connecting Tubule,22021
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Connecting Tubule Principal,78
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Cortical Collecting Duct Principal,1942
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Cortical Thick Ascending Limb,52
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Descending Thin Limb Type 1,21339
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Descending Thin Limb Type 2,472
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Descending Thin Limb Type 3,1469
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Descending Vasa Recta Endothelial,656
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Distal Convoluted Tubule Type 1,3648
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Fibroblast,78
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Inner Medullary Collecting Duct,24935
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Lymphatic Endothelial,52
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Macula Densa,26
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Mast,498
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Medullary Fibroblast,2965
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Medullary Thick Ascending Limb,78
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Monocyte,26
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Monocyte-derived,288
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Natural Killer / Natural Killer T,104
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Neutrophil,78
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Outer Medullary Collecting Duct Principal,1181
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Papillary Tip Epithelial,2388
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Peritubular Capilary Endothelial,603
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Plasma,78
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Renin-positive Juxtaglomerular Granular,26
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,T,708
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Tissue-resident Macrophage,288
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Vascular Smooth Muscle / Pericyte,656
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Cortical Vascular Smooth Muscle / Pericyte,26
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Descending Vasa Recta Endothelial ,26
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Intercalated Type B,26
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,M2 Macrophage,78
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Mesangial,26
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Parietal Epithelial,104
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Peritubular Capilary Endothelial ,183
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Plasmacytoid Dendritic,26
+VH_M_Skin,VH_M_skin,"CD68 
+/ Macrophage",143124
+VH_M_Skin,VH_M_skin,T-Killer,52446
+VH_M_Skin,VH_M_skin,T-reg,187749
+VH_M_Skin,VH_M_skin,T-helper,1341466
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Afferent / Efferent Arteriole Endothelial,89121
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Ascending Vasa Recta Endothelial,80209
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,B,13368
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Classical Dendritic,13368
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Connecting Tubule,7962983
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Connecting Tubule Intercalated Type A,13368
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Connecting Tubule Principal,40104
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Cortical Collecting Duct Intercalated Type A,779810
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Cortical Collecting Duct Principal,1359098
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Cortical Thick Ascending Limb,2308240
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Cortical Vascular Smooth Muscle / Pericyte,236171
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Descending Thin Limb Type 1,133681
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Descending Thin Limb Type 2,819915
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Descending Vasa Recta Endothelial,62384
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Distal Convoluted Tubule Type 1,3065770
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Distal Convoluted Tubule Type 2,196066
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Fibroblast,115857
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Glomerular Capillary Endothelial,588200
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Intercalated Type B,138137
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Lymphatic Endothelial,204978
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Macula Densa,347572
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Mast,17824
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Medullary Thick Ascending Limb,3609410
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Mesangial,40104
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Monocyte,31192
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Monocyte-derived,102489
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Natural Killer / Natural Killer T,80209
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Neutrophil,8912
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Outer Medullary Collecting Duct Intercalated Type A,775354
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Papillary Tip Epithelial,4456
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Parietal Epithelial,227259
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Peritubular Capilary Endothelial,1350186
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Plasma,17824
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Podocyte,1073910
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Proximal Tubule Epithelial Segment 1,3123699
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Proximal Tubule Epithelial Segment 2,187154
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Proximal Tubule Epithelial Segment 3,1323450
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Renin-positive Juxtaglomerular Granular,17824
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,T,329748
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Tissue-resident Macrophage,160418
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Vascular Smooth Muscle / Pericyte,249539
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Ascending Thin Limb,499078
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Descending Thin Limb Type 3,22280
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Inner Medullary Collecting Duct,1096191
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,M2 Macrophage,178242
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Medullary Fibroblast,4456
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Natural Killer T,53472
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Non-classical monocyte,4456
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Outer Medullary Collecting Duct Principal,4456
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Peritubular Capilary Endothelial ,730794
+VH_F_Skin,VH_F_skin,"CD68 
+/ Macrophage",81240
+VH_F_Skin,VH_F_skin,T-Killer,27463
+VH_F_Skin,VH_F_skin,T-reg,69098
+VH_F_Skin,VH_F_skin,T-helper,762051
+VH_M_Kidney_L,VH_M_renal_column_L,Ascending Thin Limb,2634666
+VH_M_Kidney_L,VH_M_renal_column_L,Ascending Vasa Recta Endothelial,10906
+VH_M_Kidney_L,VH_M_renal_column_L,Connecting Tubule,4114815
+VH_M_Kidney_L,VH_M_renal_column_L,Cortical Collecting Duct Principal,415999
+VH_M_Kidney_L,VH_M_renal_column_L,Descending Thin Limb Type 1,1176329
+VH_M_Kidney_L,VH_M_renal_column_L,Descending Thin Limb Type 3,116853
+VH_M_Kidney_L,VH_M_renal_column_L,Descending Vasa Recta Endothelial ,35835
+VH_M_Kidney_L,VH_M_renal_column_L,Distal Convoluted Tubule Type 1,17138
+VH_M_Kidney_L,VH_M_renal_column_L,Inner Medullary Collecting Duct,8415039
+VH_M_Kidney_L,VH_M_renal_column_L,M2 Macrophage,1558
+VH_M_Kidney_L,VH_M_renal_column_L,Medullary Fibroblast,183850
+VH_M_Kidney_L,VH_M_renal_column_L,Medullary Thick Ascending Limb,1558
+VH_M_Kidney_L,VH_M_renal_column_L,Vascular Smooth Muscle / Pericyte,12464
