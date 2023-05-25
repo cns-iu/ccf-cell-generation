@@ -1,0 +1,304 @@
+row:  7 dataset_id:  GTEX-1CAMS-5015  unique tissue block id:  https://gtexportal.org/home/tissue/Breast#FTissueBlocks  not in all_rui_location_by_dataset_id.json
+row:  8 dataset_id:  GTEX-1MCC2-5013  unique tissue block id:  https://gtexportal.org/home/tissue/Breast#FTissueBlocks  not in all_rui_location_by_dataset_id.json
+row:  9 dataset_id:  GTEX-1R9PN-5002  unique tissue block id:  https://gtexportal.org/home/tissue/Breast#FTissueBlocks  not in all_rui_location_by_dataset_id.json
+row:  126 dataset_id:  HBM944.XPFX.655  unique tissue block id:  HBM748.GDSK.748  not in all_rui_location_by_dataset_id.json
+row:  198  dataset_id:  nan  not in bar graph portal
+row:  203  dataset_id:  HBM245.VSKK.846  not in bar graph portal
+row:  204  dataset_id:  HBM246.DMSS.835  not in bar graph portal
+row:  205  dataset_id:  HBM252.BMWF.224  not in bar graph portal
+row:  211  dataset_id:  HBM256.KFVT.324  not in bar graph portal
+row:  215  dataset_id:  HBM258.BWHR.287  not in bar graph portal
+row:  225  dataset_id:  HBM265.NXDR.935  not in bar graph portal
+row:  238  dataset_id:  HBM288.RCTV.965  not in bar graph portal
+row:  247  dataset_id:  HBM328.FTJW.669  not in bar graph portal
+row:  247 dataset_id:  HBM328.FTJW.669  unique tissue block id:  HBM779.PTHT.732  not in all_rui_location_by_dataset_id.json
+row:  257  dataset_id:  HBM344.HZNN.755  not in bar graph portal
+row:  258  dataset_id:  HBM347.VDHS.379  not in bar graph portal
+row:  260  dataset_id:  HBM349.KWMK.599  not in bar graph portal
+row:  260 dataset_id:  HBM349.KWMK.599  unique tissue block id:  HBM779.PTHT.732  not in all_rui_location_by_dataset_id.json
+row:  262  dataset_id:  HBM349.XPRZ.258  not in bar graph portal
+row:  262 dataset_id:  HBM349.XPRZ.258  unique tissue block id:  HBM779.PTHT.732  not in all_rui_location_by_dataset_id.json
+row:  269  dataset_id:  HBM363.LDZL.423  not in bar graph portal
+row:  269 dataset_id:  HBM363.LDZL.423  unique tissue block id:  HBM779.PTHT.732  not in all_rui_location_by_dataset_id.json
+row:  276  dataset_id:  HBM368.FDDS.927  not in bar graph portal
+row:  278  dataset_id:  HBM369.FCNZ.863  not in bar graph portal
+row:  280  dataset_id:  HBM373.FNMG.689  not in bar graph portal
+row:  282  dataset_id:  HBM374.BXTC.899  not in bar graph portal
+row:  282 dataset_id:  HBM374.BXTC.899  unique tissue block id:  HBM639.BSVJ.945  not in all_rui_location_by_dataset_id.json
+row:  286  dataset_id:  HBM375.KNVL.645  not in bar graph portal
+row:  289  dataset_id:  HBM378.WGXD.394  not in bar graph portal
+row:  289 dataset_id:  HBM378.WGXD.394  unique tissue block id:  HBM999.WVWP.899  not in all_rui_location_by_dataset_id.json
+row:  290  dataset_id:  HBM379.QCJT.435  not in bar graph portal
+row:  292  dataset_id:  HBM379.ZGKM.223  not in bar graph portal
+row:  296  dataset_id:  HBM385.CJKX.252  not in bar graph portal
+row:  302  dataset_id:  HBM388.ZSNN.945  not in bar graph portal
+row:  305  dataset_id:  HBM393.CCBZ.572  not in bar graph portal
+row:  305 dataset_id:  HBM393.CCBZ.572  unique tissue block id:  HBM688.MWGQ.574  not in all_rui_location_by_dataset_id.json
+row:  307  dataset_id:  HBM393.NWNB.684  not in bar graph portal
+row:  309  dataset_id:  HBM394.VPCK.634  not in bar graph portal
+row:  314  dataset_id:  HBM396.JHNS.692  not in bar graph portal
+row:  314 dataset_id:  HBM396.JHNS.692  unique tissue block id:  HBM439.XLQC.765  not in all_rui_location_by_dataset_id.json
+row:  319  dataset_id:  HBM398.CFZH.458  not in bar graph portal
+row:  337  dataset_id:  HBM425.MSBX.963  not in bar graph portal
+row:  337 dataset_id:  HBM425.MSBX.963  unique tissue block id:  HBM972.RTFD.763  not in all_rui_location_by_dataset_id.json
+row:  342  dataset_id:  HBM426.HLCN.236  not in bar graph portal
+row:  342 dataset_id:  HBM426.HLCN.236  unique tissue block id:  HBM653.SDCX.322  not in all_rui_location_by_dataset_id.json
+row:  348 dataset_id:  HBM432.BPZM.698  unique tissue block id:  HBM798.ZZBP.697  not in all_rui_location_by_dataset_id.json
+row:  349  dataset_id:  HBM432.RXTV.994  not in bar graph portal
+row:  352  dataset_id:  HBM434.GKNQ.757  not in bar graph portal
+row:  365  dataset_id:  HBM442.GZFZ.522  not in bar graph portal
+row:  369  dataset_id:  HBM442.SBCR.983  not in bar graph portal
+row:  369 dataset_id:  HBM442.SBCR.983  unique tissue block id:  HBM529.CXVH.794  not in all_rui_location_by_dataset_id.json
+row:  375  dataset_id:  HBM443.TQKQ.624  not in bar graph portal
+row:  375 dataset_id:  HBM443.TQKQ.624  unique tissue block id:  HBM439.XLQC.765  not in all_rui_location_by_dataset_id.json
+row:  377  dataset_id:  HBM444.BXPJ.728  not in bar graph portal
+row:  379  dataset_id:  HBM445.NPKW.958  not in bar graph portal
+row:  379 dataset_id:  HBM445.NPKW.958  unique tissue block id:  HBM779.PTHT.732  not in all_rui_location_by_dataset_id.json
+row:  386  dataset_id:  HBM458.TNQX.264  not in bar graph portal
+row:  388  dataset_id:  HBM459.BBRT.432  not in bar graph portal
+row:  393  dataset_id:  HBM464.RSZW.375  not in bar graph portal
+row:  401  dataset_id:  HBM469.MJBC.894  not in bar graph portal
+row:  401 dataset_id:  HBM469.MJBC.894  unique tissue block id:  HBM568.WDZZ.977  not in all_rui_location_by_dataset_id.json
+row:  403  dataset_id:  HBM473.NKMR.872  not in bar graph portal
+row:  404  dataset_id:  HBM475.LXDL.227  not in bar graph portal
+row:  407  dataset_id:  HBM476.PRMC.228  not in bar graph portal
+row:  407 dataset_id:  HBM476.PRMC.228  unique tissue block id:  HBM872.XRHM.685  not in all_rui_location_by_dataset_id.json
+row:  415  dataset_id:  HBM484.RGWP.797  not in bar graph portal
+row:  427  dataset_id:  HBM523.FKWF.269  not in bar graph portal
+row:  429  dataset_id:  HBM526.VJKT.388  not in bar graph portal
+row:  430  dataset_id:  HBM527.PTXH.326  not in bar graph portal
+row:  435  dataset_id:  HBM532.ZJRQ.263  not in bar graph portal
+row:  444  dataset_id:  HBM539.HMRR.435  not in bar graph portal
+row:  447  dataset_id:  HBM542.DVXG.466  not in bar graph portal
+row:  447 dataset_id:  HBM542.DVXG.466  unique tissue block id:  HBM529.CXVH.794  not in all_rui_location_by_dataset_id.json
+row:  449  dataset_id:  HBM545.PQSZ.997  not in bar graph portal
+row:  459  dataset_id:  HBM558.LPPJ.448  not in bar graph portal
+row:  468  dataset_id:  HBM572.JLDL.664  not in bar graph portal
+row:  481  dataset_id:  HBM578.ZCCJ.565  not in bar graph portal
+row:  482  dataset_id:  HBM582.WWWJ.738  not in bar graph portal
+row:  483  dataset_id:  HBM584.CZDB.483  not in bar graph portal
+row:  488  dataset_id:  HBM587.JPLF.798  not in bar graph portal
+row:  495  dataset_id:  HBM625.MGXD.586  not in bar graph portal
+row:  496  dataset_id:  HBM625.PTSS.252  not in bar graph portal
+row:  504  dataset_id:  HBM635.DQXB.362  not in bar graph portal
+row:  507  dataset_id:  HBM644.GBKD.967  not in bar graph portal
+row:  507 dataset_id:  HBM644.GBKD.967  unique tissue block id:  HBM779.PTHT.732  not in all_rui_location_by_dataset_id.json
+row:  508  dataset_id:  HBM645.XLLN.924  not in bar graph portal
+row:  516  dataset_id:  HBM658.SBTV.949  not in bar graph portal
+row:  525  dataset_id:  HBM667.ZCQC.777  not in bar graph portal
+row:  526  dataset_id:  HBM668.RQWZ.595  not in bar graph portal
+row:  531  dataset_id:  HBM673.WGZS.593  not in bar graph portal
+row:  531 dataset_id:  HBM673.WGZS.593  unique tissue block id:  HBM439.XLQC.765  not in all_rui_location_by_dataset_id.json
+row:  538  dataset_id:  HBM678.FRJC.827  not in bar graph portal
+row:  546  dataset_id:  HBM685.XWPB.694  not in bar graph portal
+row:  549  dataset_id:  HBM687.FWNC.555  not in bar graph portal
+row:  555  dataset_id:  HBM689.QPMR.542  not in bar graph portal
+row:  561  dataset_id:  HBM694.TNFF.778  not in bar graph portal
+row:  561 dataset_id:  HBM694.TNFF.778  unique tissue block id:  HBM589.TRHK.898  not in all_rui_location_by_dataset_id.json
+row:  566  dataset_id:  HBM695.VNZJ.522  not in bar graph portal
+row:  568  dataset_id:  HBM695.XTNF.836  not in bar graph portal
+row:  568 dataset_id:  HBM695.XTNF.836  unique tissue block id:  HBM779.PTHT.732  not in all_rui_location_by_dataset_id.json
+row:  573  dataset_id:  HBM722.TLKZ.444  not in bar graph portal
+row:  575  dataset_id:  HBM723.QMLJ.829  not in bar graph portal
+row:  576  dataset_id:  HBM724.RVJD.893  not in bar graph portal
+row:  579  dataset_id:  HBM725.BRBB.566  not in bar graph portal
+row:  579 dataset_id:  HBM725.BRBB.566  unique tissue block id:  HBM439.XLQC.765  not in all_rui_location_by_dataset_id.json
+row:  581  dataset_id:  HBM725.RHWH.487  not in bar graph portal
+row:  590  dataset_id:  HBM729.HSHS.983  not in bar graph portal
+row:  594  dataset_id:  HBM729.TFXC.825  not in bar graph portal
+row:  599  dataset_id:  HBM733.GBWP.269  not in bar graph portal
+row:  601  dataset_id:  HBM734.DSQM.939  not in bar graph portal
+row:  601 dataset_id:  HBM734.DSQM.939  unique tissue block id:  HBM653.SDCX.322  not in all_rui_location_by_dataset_id.json
+row:  603  dataset_id:  HBM734.NTJP.672  not in bar graph portal
+row:  605  dataset_id:  HBM737.WSXM.893  not in bar graph portal
+row:  613  dataset_id:  HBM744.MBPT.666  not in bar graph portal
+row:  613 dataset_id:  HBM744.MBPT.666  unique tissue block id:  HBM779.PTHT.732  not in all_rui_location_by_dataset_id.json
+row:  617  dataset_id:  HBM747.WJZS.473  not in bar graph portal
+row:  624  dataset_id:  HBM757.RLFF.943  not in bar graph portal
+row:  633  dataset_id:  HBM769.JMPX.755  not in bar graph portal
+row:  637 dataset_id:  HBM773.WCXC.264  unique tissue block id:  HBM658.HLPP.972  not in all_rui_location_by_dataset_id.json
+row:  641  dataset_id:  HBM775.HGSK.536  not in bar graph portal
+row:  641 dataset_id:  HBM775.HGSK.536  unique tissue block id:  HBM439.XLQC.765  not in all_rui_location_by_dataset_id.json
+row:  644  dataset_id:  HBM775.RVQX.376  not in bar graph portal
+row:  646  dataset_id:  HBM777.SVZT.454  not in bar graph portal
+row:  646 dataset_id:  HBM777.SVZT.454  unique tissue block id:  HBM779.PTHT.732  not in all_rui_location_by_dataset_id.json
+row:  651  dataset_id:  HBM788.XLZL.369  not in bar graph portal
+row:  661  dataset_id:  HBM793.VKVL.982  not in bar graph portal
+row:  669  dataset_id:  HBM822.JFXK.683  not in bar graph portal
+row:  673  dataset_id:  HBM826.RGXW.276  not in bar graph portal
+row:  674  dataset_id:  HBM827.NQQL.854  not in bar graph portal
+row:  674 dataset_id:  HBM827.NQQL.854  unique tissue block id:  HBM776.MWMG.262  not in all_rui_location_by_dataset_id.json
+row:  682  dataset_id:  HBM834.MLPZ.788  not in bar graph portal
+row:  684  dataset_id:  HBM834.TDFD.294  not in bar graph portal
+row:  686  dataset_id:  HBM835.CLRW.587  not in bar graph portal
+row:  686 dataset_id:  HBM835.CLRW.587  unique tissue block id:  HBM748.GDSK.748  not in all_rui_location_by_dataset_id.json
+row:  688  dataset_id:  HBM836.FPBQ.686  not in bar graph portal
+row:  694 dataset_id:  HBM839.TQNM.958  unique tissue block id:  HBM987.SRVR.359  not in all_rui_location_by_dataset_id.json
+row:  704  dataset_id:  HBM846.WXJK.587  not in bar graph portal
+row:  704 dataset_id:  HBM846.WXJK.587  unique tissue block id:  HBM827.CBML.724  not in all_rui_location_by_dataset_id.json
+row:  707  dataset_id:  HBM849.TWBF.722  not in bar graph portal
+row:  714  dataset_id:  HBM854.GCMW.458  not in bar graph portal
+row:  714 dataset_id:  HBM854.GCMW.458  unique tissue block id:  HBM796.HXRQ.759  not in all_rui_location_by_dataset_id.json
+row:  716  dataset_id:  HBM854.LQKL.226  not in bar graph portal
+row:  716 dataset_id:  HBM854.LQKL.226  unique tissue block id:  HBM938.JJMV.536  not in all_rui_location_by_dataset_id.json
+row:  722  dataset_id:  HBM865.KZMC.828  not in bar graph portal
+row:  732  dataset_id:  HBM869.ZBCZ.787  not in bar graph portal
+row:  737  dataset_id:  HBM876.KWMX.349  not in bar graph portal
+row:  741  dataset_id:  HBM879.KGML.575  not in bar graph portal
+row:  743  dataset_id:  HBM879.NCTL.468  not in bar graph portal
+row:  743 dataset_id:  HBM879.NCTL.468  unique tissue block id:  HBM779.PTHT.732  not in all_rui_location_by_dataset_id.json
+row:  745  dataset_id:  HBM882.KDTH.685  not in bar graph portal
+row:  750  dataset_id:  HBM883.SPLD.238  not in bar graph portal
+row:  754  dataset_id:  HBM886.ZXXN.298  not in bar graph portal
+row:  755  dataset_id:  HBM889.BXPN.494  not in bar graph portal
+row:  764  dataset_id:  HBM897.WVVR.437  not in bar graph portal
+row:  768  dataset_id:  HBM922.KSKR.637  not in bar graph portal
+row:  773  dataset_id:  HBM927.ZWBG.769  not in bar graph portal
+row:  780  dataset_id:  HBM938.FTBC.347  not in bar graph portal
+row:  784  dataset_id:  HBM939.CNSV.893  not in bar graph portal
+row:  784 dataset_id:  HBM939.CNSV.893  unique tissue block id:  HBM779.PTHT.732  not in all_rui_location_by_dataset_id.json
+row:  785  dataset_id:  HBM943.VFSK.297  not in bar graph portal
+row:  789  dataset_id:  HBM945.QNRF.244  not in bar graph portal
+row:  792  dataset_id:  HBM953.CTWH.676  not in bar graph portal
+row:  800  dataset_id:  HBM955.DXVQ.765  not in bar graph portal
+row:  800 dataset_id:  HBM955.DXVQ.765  unique tissue block id:  HBM439.XLQC.765  not in all_rui_location_by_dataset_id.json
+row:  802  dataset_id:  HBM959.QMBB.765  not in bar graph portal
+row:  807  dataset_id:  HBM965.GWBH.574  not in bar graph portal
+row:  813  dataset_id:  HBM969.CJQL.629  not in bar graph portal
+row:  814  dataset_id:  HBM972.JCHH.759  not in bar graph portal
+row:  815  dataset_id:  HBM972.VRNF.956  not in bar graph portal
+row:  822  dataset_id:  HBM975.WHWM.552  not in bar graph portal
+row:  831  dataset_id:  HBM982.TTRB.258  not in bar graph portal
+row:  831 dataset_id:  HBM982.TTRB.258  unique tissue block id:  HBM979.NRZZ.666  not in all_rui_location_by_dataset_id.json
+row:  836  dataset_id:  HBM984.LZDJ.635  not in bar graph portal
+row:  838  dataset_id:  HBM985.TJZD.778  not in bar graph portal
+row:  3899 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H18.30.001_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H18.30.001_Brain  not in all_rui_location_by_dataset_id.json
+row:  3900 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H18.30.002_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H18.30.002_Brain  not in all_rui_location_by_dataset_id.json
+row:  3901 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H19.30.001_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H19.30.001_Brain  not in all_rui_location_by_dataset_id.json
+row:  3902 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H19.30.002_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H19.30.002_Brain  not in all_rui_location_by_dataset_id.json
+row:  3903 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H19.33.004_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H19.33.004_Brain  not in all_rui_location_by_dataset_id.json
+row:  3904 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.001_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.001_Brain  not in all_rui_location_by_dataset_id.json
+row:  3905 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.002_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.002_Brain  not in all_rui_location_by_dataset_id.json
+row:  3906 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.005_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.005_Brain  not in all_rui_location_by_dataset_id.json
+row:  3907 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.008_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.008_Brain  not in all_rui_location_by_dataset_id.json
+row:  3908 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.012_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.012_Brain  not in all_rui_location_by_dataset_id.json
+row:  3909 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.013_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.013_Brain  not in all_rui_location_by_dataset_id.json
+row:  3910 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.014_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.014_Brain  not in all_rui_location_by_dataset_id.json
+row:  3911 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.019_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.019_Brain  not in all_rui_location_by_dataset_id.json
+row:  3912 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.024_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.024_Brain  not in all_rui_location_by_dataset_id.json
+row:  3913 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.025_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.025_Brain  not in all_rui_location_by_dataset_id.json
+row:  3914 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.027_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.027_Brain  not in all_rui_location_by_dataset_id.json
+row:  3915 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.030_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.030_Brain  not in all_rui_location_by_dataset_id.json
+row:  3916 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.032_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.032_Brain  not in all_rui_location_by_dataset_id.json
+row:  3917 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.034_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.034_Brain  not in all_rui_location_by_dataset_id.json
+row:  3918 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.035_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.035_Brain  not in all_rui_location_by_dataset_id.json
+row:  3919 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.036_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.036_Brain  not in all_rui_location_by_dataset_id.json
+row:  3920 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.039_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.039_Brain  not in all_rui_location_by_dataset_id.json
+row:  3923 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.043_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.043_Brain  not in all_rui_location_by_dataset_id.json
+row:  3924 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.044_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.044_Brain  not in all_rui_location_by_dataset_id.json
+row:  3925 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H200.1023_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H200.1023_Brain  not in all_rui_location_by_dataset_id.json
+row:  3926 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.003_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.003_Brain  not in all_rui_location_by_dataset_id.json
+row:  3927 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.004_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.004_Brain  not in all_rui_location_by_dataset_id.json
+row:  3928 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.006_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.006_Brain  not in all_rui_location_by_dataset_id.json
+row:  3929 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.011_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.011_Brain  not in all_rui_location_by_dataset_id.json
+row:  3930 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.014_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.014_Brain  not in all_rui_location_by_dataset_id.json
+row:  3931 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.015_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.015_Brain  not in all_rui_location_by_dataset_id.json
+row:  3932 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.019_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.019_Brain  not in all_rui_location_by_dataset_id.json
+row:  3933 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.022_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.022_Brain  not in all_rui_location_by_dataset_id.json
+row:  3934 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.023_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.023_Brain  not in all_rui_location_by_dataset_id.json
+row:  3935 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.025_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.025_Brain  not in all_rui_location_by_dataset_id.json
+row:  3936 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.026_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.026_Brain  not in all_rui_location_by_dataset_id.json
+row:  3937 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.028_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.028_Brain  not in all_rui_location_by_dataset_id.json
+row:  3938 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.030_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.030_Brain  not in all_rui_location_by_dataset_id.json
+row:  3939 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.032_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.032_Brain  not in all_rui_location_by_dataset_id.json
+row:  3940 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.033_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.033_Brain  not in all_rui_location_by_dataset_id.json
+row:  3941 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.035_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.035_Brain  not in all_rui_location_by_dataset_id.json
+row:  3942 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.036_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.036_Brain  not in all_rui_location_by_dataset_id.json
+row:  3943 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.037_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.037_Brain  not in all_rui_location_by_dataset_id.json
+row:  3944 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.038_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.038_Brain  not in all_rui_location_by_dataset_id.json
+row:  3945 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.040_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.040_Brain  not in all_rui_location_by_dataset_id.json
+row:  3946 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.041_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.041_Brain  not in all_rui_location_by_dataset_id.json
+row:  3947 dataset_id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.047_Brain  unique tissue block id:  1ca90a2d-2943-483d-b678-b809bf464c30_H21.33.047_Brain  not in all_rui_location_by_dataset_id.json
+row:  4080  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D1_Heart_apex_of_heart  not in bar graph portal
+row:  4081  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D1_Heart_heart_left_ventricle  not in bar graph portal
+row:  4082  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D1_Heart_heart_right_ventricle  not in bar graph portal
+row:  4083  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D1_Heart_left_cardiac_atrium  not in bar graph portal
+row:  4084  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D11_Heart_apex_of_heart  not in bar graph portal
+row:  4085  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D11_Heart_heart_left_ventricle  not in bar graph portal
+row:  4086  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D11_Heart_heart_right_ventricle  not in bar graph portal
+row:  4087  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D11_Heart_interventricular_septum  not in bar graph portal
+row:  4088  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D11_Heart_left_cardiac_atrium  not in bar graph portal
+row:  4089  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D11_Heart_right_cardiac_atrium  not in bar graph portal
+row:  4090  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D2_Heart_apex_of_heart  not in bar graph portal
+row:  4091  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D2_Heart_heart_left_ventricle  not in bar graph portal
+row:  4092  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D2_Heart_heart_right_ventricle  not in bar graph portal
+row:  4093  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D2_Heart_interventricular_septum  not in bar graph portal
+row:  4094  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D2_Heart_left_cardiac_atrium  not in bar graph portal
+row:  4095  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D2_Heart_right_cardiac_atrium  not in bar graph portal
+row:  4096  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D3_Heart_apex_of_heart  not in bar graph portal
+row:  4097  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D3_Heart_heart_left_ventricle  not in bar graph portal
+row:  4098  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D3_Heart_heart_right_ventricle  not in bar graph portal
+row:  4099  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D3_Heart_interventricular_septum  not in bar graph portal
+row:  4100  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D3_Heart_left_cardiac_atrium  not in bar graph portal
+row:  4101  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D3_Heart_right_cardiac_atrium  not in bar graph portal
+row:  4102  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D4_Heart_apex_of_heart  not in bar graph portal
+row:  4103  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D4_Heart_heart_left_ventricle  not in bar graph portal
+row:  4104  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D4_Heart_heart_right_ventricle  not in bar graph portal
+row:  4105  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D4_Heart_interventricular_septum  not in bar graph portal
+row:  4106  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D4_Heart_left_cardiac_atrium  not in bar graph portal
+row:  4107  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D4_Heart_right_cardiac_atrium  not in bar graph portal
+row:  4108  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D5_Heart_apex_of_heart  not in bar graph portal
+row:  4109  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D5_Heart_heart_left_ventricle  not in bar graph portal
+row:  4110  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D5_Heart_heart_right_ventricle  not in bar graph portal
+row:  4111  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D5_Heart_interventricular_septum  not in bar graph portal
+row:  4112  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D5_Heart_left_cardiac_atrium  not in bar graph portal
+row:  4113  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D5_Heart_right_cardiac_atrium  not in bar graph portal
+row:  4114  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D6_Heart_apex_of_heart  not in bar graph portal
+row:  4115  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D6_Heart_heart_left_ventricle  not in bar graph portal
+row:  4116  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D6_Heart_heart_right_ventricle  not in bar graph portal
+row:  4117  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D6_Heart_interventricular_septum  not in bar graph portal
+row:  4118  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D6_Heart_left_cardiac_atrium  not in bar graph portal
+row:  4119  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D6_Heart_right_cardiac_atrium  not in bar graph portal
+row:  4120  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D7_Heart_apex_of_heart  not in bar graph portal
+row:  4121  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D7_Heart_heart_left_ventricle  not in bar graph portal
+row:  4122  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D7_Heart_heart_right_ventricle  not in bar graph portal
+row:  4123  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D7_Heart_interventricular_septum  not in bar graph portal
+row:  4124  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D7_Heart_left_cardiac_atrium  not in bar graph portal
+row:  4125  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_D7_Heart_right_cardiac_atrium  not in bar graph portal
+row:  4126  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H2_Heart_apex_of_heart  not in bar graph portal
+row:  4127  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H2_Heart_heart_left_ventricle  not in bar graph portal
+row:  4128  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H2_Heart_heart_right_ventricle  not in bar graph portal
+row:  4129  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H2_Heart_interventricular_septum  not in bar graph portal
+row:  4130  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H2_Heart_left_cardiac_atrium  not in bar graph portal
+row:  4131  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H2_Heart_right_cardiac_atrium  not in bar graph portal
+row:  4132  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H3_Heart_apex_of_heart  not in bar graph portal
+row:  4133  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H3_Heart_heart_left_ventricle  not in bar graph portal
+row:  4134  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H3_Heart_heart_right_ventricle  not in bar graph portal
+row:  4135  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H3_Heart_interventricular_septum  not in bar graph portal
+row:  4136  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H3_Heart_left_cardiac_atrium  not in bar graph portal
+row:  4137  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H3_Heart_right_cardiac_atrium  not in bar graph portal
+row:  4138  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H4_Heart_apex_of_heart  not in bar graph portal
+row:  4139  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H4_Heart_heart_left_ventricle  not in bar graph portal
+row:  4140  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H4_Heart_heart_right_ventricle  not in bar graph portal
+row:  4141  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H4_Heart_interventricular_septum  not in bar graph portal
+row:  4142  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H4_Heart_left_cardiac_atrium  not in bar graph portal
+row:  4143  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H4_Heart_right_cardiac_atrium  not in bar graph portal
+row:  4144  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H5_Heart_apex_of_heart  not in bar graph portal
+row:  4145  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H5_Heart_heart_left_ventricle  not in bar graph portal
+row:  4146  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H5_Heart_heart_right_ventricle  not in bar graph portal
+row:  4147  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H5_Heart_interventricular_septum  not in bar graph portal
+row:  4148  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H5_Heart_left_cardiac_atrium  not in bar graph portal
+row:  4149  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H5_Heart_right_cardiac_atrium  not in bar graph portal
+row:  4150  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H6_Heart_apex_of_heart  not in bar graph portal
+row:  4151  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H6_Heart_heart_left_ventricle  not in bar graph portal
+row:  4152  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H6_Heart_heart_right_ventricle  not in bar graph portal
+row:  4153  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H6_Heart_interventricular_septum  not in bar graph portal
+row:  4154  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H6_Heart_left_cardiac_atrium  not in bar graph portal
+row:  4155  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H6_Heart_right_cardiac_atrium  not in bar graph portal
+row:  4156  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H7_Heart_apex_of_heart  not in bar graph portal
+row:  4157  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H7_Heart_heart_left_ventricle  not in bar graph portal
+row:  4158  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H7_Heart_heart_right_ventricle  not in bar graph portal
+row:  4159  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H7_Heart_interventricular_septum  not in bar graph portal
+row:  4160  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H7_Heart_left_cardiac_atrium  not in bar graph portal
+row:  4161  dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H7_Heart_right_cardiac_atrium  not in bar graph portal
+row:  4161 dataset_id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H7_Heart_right_cardiac_atrium  unique tissue block id:  b4c3c03b-99cd-407a-a824-1875e00a04ad_H7_Heart_right_cardiac_atrium  not in all_rui_location_by_dataset_id.json

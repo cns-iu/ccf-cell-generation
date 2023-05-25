@@ -1,0 +1,6 @@
+row:  198 dataset_id:  nan  unique tissue block id:  HBM695.TGJS.338  not in all_rui_location_by_dataset_id.json
+row:  289 dataset_id:  HBM378.WGXD.394  unique tissue block id:  HBM999.WVWP.899  not in all_rui_location_by_dataset_id.json
+unmatched hubmap id for dataset id:  HBM393.CCBZ.572  hubmap id in big table:  HBM688.MWGQ.574  hubmap id in json:  HBM486.QXHD.874
+row:  674 dataset_id:  HBM827.NQQL.854  unique tissue block id:  HBM776.MWMG.262  not in all_rui_location_by_dataset_id.json
+unmatched hubmap id for dataset id:  HBM835.CLRW.587  hubmap id in big table:  HBM387.FRRL.937  hubmap id in json:  HBM386.ZGKG.235
+row:  716 dataset_id:  HBM854.LQKL.226  unique tissue block id:  HBM938.JJMV.536  not in all_rui_location_by_dataset_id.json

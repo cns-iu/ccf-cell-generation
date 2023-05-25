@@ -14,6 +14,9 @@ def load_hubmap_dataset_ids(csv_dir_path):
     dir_list = os.listdir(csv_dir_path)
     return [e[:-4] for e in dir_list if e.endswith('.csv')]
 
+def load_hubmap_dataset_ids(training_prediction_table):
+
+    pass
 
 # load Devin's json file ct_pop_total.json
 def parse_dataset_id_to_hubmap_tissue_block_id_rui(json_path, set_dataset_id):
