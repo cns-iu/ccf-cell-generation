@@ -36,7 +36,8 @@ int main(int argc, char **argv)
     Surface_mesh point_mesh;
 
     std::ofstream points_csv;
-    points_csv.open("cell_locations_ctpop.csv");
+    auto output_file_path = argv[3];
+    points_csv.open(output_file_path);
     points_csv << "organ, anatomical structure, cell_type, x, y, z\n";
 
     std::ifstream specification_csv(specification_file_path);
@@ -64,6 +65,7 @@ int main(int argc, char **argv)
 
         // skip Skin because skin is special
         if (organ.find("Skin") != std::string::npos) continue;
+        // if (AS.find("VH_F_renal_pyramid_L_a") == std::string::npos && AS.find("VH_F_outer_cortex_of_kidney_L") == std::string::npos) continue;
 
         fs::path tmp = fs::path(body_path) / fs::path(organ) / fs::path(AS);
         std::string file_path = tmp.string() + ".off";
