@@ -1,1 +1,1 @@
-./build/generate_cell_skin /home/catherine/data/model/plain_manifold_filling_hole_v1.2 ./scripts/csv/cell_type_count_per_AS.csv 0.001
+./build/generate_cell_skin /home/catherine/data/model/plain_manifold_filling_hole_v1.2 ./scripts/csv/cell_type_count_per_AS_Skin.csv 0.001

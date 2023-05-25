@@ -70,11 +70,23 @@ int main(int argc, char **argv)
     auto specification_file_path = argv[2];
     double thickness = std::stod(argv[3]);
 
+    std::string output_VH_F_skin_csv_file = "cell_location_VH_F_skin.csv"; 
+    std::ofstream points_VH_F_skin_csv;
+    points_VH_F_skin_csv.open(output_VH_F_skin_csv_file);
+    points_VH_F_skin_csv << "organ, anatomical structure, cell_type, x, y, z\n";
+
+    std::string output_VH_M_skin_csv_file = "cell_location_VH_M_skin.csv"; 
+    std::ofstream points_VH_M_skin_csv;
+    points_VH_M_skin_csv.open(output_VH_M_skin_csv_file);
+    points_VH_M_skin_csv << "organ, anatomical structure, cell_type, x, y, z\n";
+
+
     std::ifstream specification_csv(specification_file_path);
     if (!specification_csv.is_open()) throw std::runtime_error("could not open specification table!");
 
     std::string line;
-    std::getline(specification_csv, line);
+    // no header
+    // std::getline(specification_csv, line);
     std::vector<std::string> row;
     std::string word;
 
@@ -105,7 +117,7 @@ int main(int argc, char **argv)
         // for testing, use count/100
         if (organ.find("Skin") != std::string::npos)
         {
-            count = count / 100;
+            count = count / 10;
             std::cout << "generating " << cell_type << " count " << count << std::endl;
             Surface_mesh mesh = load_mesh(file_path);
 
@@ -124,18 +136,25 @@ int main(int argc, char **argv)
 
             auto points = skin_cells_within_d(triangles, thickness, count);
 
-            std::string output_csv_file = "cell_location_" + AS + ".csv"; 
-            std::ofstream points_csv;
-            points_csv.open(output_csv_file);
-            points_csv << "organ, anatomical structure, cell_type, x, y, z\n";
-            for (auto &p: points)
+            if (organ.find("VH_F_Skin") != std::string::npos)
             {
-                points_csv << organ << "," << AS << "," << cell_type << "," << p[0] << "," << p[1] << "," << p[2] << "\n";
+                for (auto &p: points)
+                {
+                    points_VH_F_skin_csv << organ << "," << AS << "," << cell_type << "," << p[0] << "," << p[1] << "," << p[2] << "\n";
+                }
+
             }
-            points_csv.close();
+            
+            if (organ.find("VH_M_Skin") != std::string::npos)
+            {
+                for (auto &p: points)
+                {
+                    points_VH_M_skin_csv << organ << "," << AS << "," << cell_type << "," << p[0] << "," << p[1] << "," << p[2] << "\n";
+                }
+
+            }
 
         }
-
 
         // for (auto &p: points)
         // {
@@ -146,7 +165,9 @@ int main(int argc, char **argv)
         // }
 
     }
-
+    
+    points_VH_F_skin_csv.close();
+    points_VH_M_skin_csv.close();
     // std::ofstream point_mesh_off("point_mesh.off");
     // point_mesh_off << point_mesh;
     // point_mesh_off.close();
