@@ -1,0 +1,23 @@
+dataset_name,donor_id,tissue,tissue_ontology_term_id,cell_type,cell_type_ontology_id,sex,development_stage,race,cell_count
+All — Cells of the adult human heart,D2,right cardiac atrium,UBERON:0002078,native cell,CL:0000003,male,seventh decade human stage,European,517
+All — Cells of the adult human heart,D2,right cardiac atrium,UBERON:0002078,fibroblast,CL:0000057,male,seventh decade human stage,European,1764
+All — Cells of the adult human heart,D2,right cardiac atrium,UBERON:0002078,mast cell,CL:0000097,male,seventh decade human stage,European,4
+All — Cells of the adult human heart,D2,right cardiac atrium,UBERON:0002078,endothelial cell,CL:0000115,male,seventh decade human stage,European,57
+All — Cells of the adult human heart,D2,right cardiac atrium,UBERON:0002078,smooth muscle cell,CL:0000192,male,seventh decade human stage,European,45
+All — Cells of the adult human heart,D2,right cardiac atrium,UBERON:0002078,macrophage,CL:0000235,male,seventh decade human stage,European,151
+All — Cells of the adult human heart,D2,right cardiac atrium,UBERON:0002078,B cell,CL:0000236,male,seventh decade human stage,European,5
+All — Cells of the adult human heart,D2,right cardiac atrium,UBERON:0002078,dendritic cell,CL:0000451,male,seventh decade human stage,European,10
+All — Cells of the adult human heart,D2,right cardiac atrium,UBERON:0002078,pericyte,CL:0000669,male,seventh decade human stage,European,220
+All — Cells of the adult human heart,D2,right cardiac atrium,UBERON:0002078,"CD8-positive, alpha-beta cytotoxic T cell",CL:0000794,male,seventh decade human stage,European,11
+All — Cells of the adult human heart,D2,right cardiac atrium,UBERON:0002078,mature NK T cell,CL:0000814,male,seventh decade human stage,European,3
+All — Cells of the adult human heart,D2,right cardiac atrium,UBERON:0002078,"activated CD4-positive, alpha-beta T cell",CL:0000896,male,seventh decade human stage,European,4
+All — Cells of the adult human heart,D2,right cardiac atrium,UBERON:0002078,"activated CD8-positive, alpha-beta T cell",CL:0000906,male,seventh decade human stage,European,22
+All — Cells of the adult human heart,D2,right cardiac atrium,UBERON:0002078,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,male,seventh decade human stage,European,14
+All — Cells of the adult human heart,D2,right cardiac atrium,UBERON:0002078,CD14-positive monocyte,CL:0001054,male,seventh decade human stage,European,1
+All — Cells of the adult human heart,D2,right cardiac atrium,UBERON:0002078,regular atrial cardiac myocyte,CL:0002129,male,seventh decade human stage,European,1214
+All — Cells of the adult human heart,D2,right cardiac atrium,UBERON:0002078,capillary endothelial cell,CL:0002144,male,seventh decade human stage,European,231
+All — Cells of the adult human heart,D2,right cardiac atrium,UBERON:0002078,neural cell,CL:0002319,male,seventh decade human stage,European,110
+All — Cells of the adult human heart,D2,right cardiac atrium,UBERON:0002078,"CD14-positive, CD16-positive monocyte",CL:0002397,male,seventh decade human stage,European,1
+All — Cells of the adult human heart,D2,right cardiac atrium,UBERON:0002078,vein endothelial cell,CL:0002543,male,seventh decade human stage,European,194
+All — Cells of the adult human heart,D2,right cardiac atrium,UBERON:0002078,epicardial adipocyte,CL:1000309,male,seventh decade human stage,European,37
+All — Cells of the adult human heart,D2,right cardiac atrium,UBERON:0002078,endothelial cell of artery,CL:1000413,male,seventh decade human stage,European,97

@@ -1,0 +1,26 @@
+dataset_name,donor_id,tissue,tissue_ontology_term_id,cell_type,cell_type_ontology_id,sex,development_stage,race,cell_count
+All — Cells of the adult human heart,H5,right cardiac atrium,UBERON:0002078,native cell,CL:0000003,female,sixth decade human stage,European,102
+All — Cells of the adult human heart,H5,right cardiac atrium,UBERON:0002078,fibroblast,CL:0000057,female,sixth decade human stage,European,388
+All — Cells of the adult human heart,H5,right cardiac atrium,UBERON:0002078,mast cell,CL:0000097,female,sixth decade human stage,European,1
+All — Cells of the adult human heart,H5,right cardiac atrium,UBERON:0002078,endothelial cell,CL:0000115,female,sixth decade human stage,European,107
+All — Cells of the adult human heart,H5,right cardiac atrium,UBERON:0002078,smooth muscle cell,CL:0000192,female,sixth decade human stage,European,137
+All — Cells of the adult human heart,H5,right cardiac atrium,UBERON:0002078,macrophage,CL:0000235,female,sixth decade human stage,European,67
+All — Cells of the adult human heart,H5,right cardiac atrium,UBERON:0002078,B cell,CL:0000236,female,sixth decade human stage,European,4
+All — Cells of the adult human heart,H5,right cardiac atrium,UBERON:0002078,dendritic cell,CL:0000451,female,sixth decade human stage,European,2
+All — Cells of the adult human heart,H5,right cardiac atrium,UBERON:0002078,monocyte,CL:0000576,female,sixth decade human stage,European,6
+All — Cells of the adult human heart,H5,right cardiac atrium,UBERON:0002078,natural killer cell,CL:0000623,female,sixth decade human stage,European,2
+All — Cells of the adult human heart,H5,right cardiac atrium,UBERON:0002078,pericyte,CL:0000669,female,sixth decade human stage,European,152
+All — Cells of the adult human heart,H5,right cardiac atrium,UBERON:0002078,"CD8-positive, alpha-beta cytotoxic T cell",CL:0000794,female,sixth decade human stage,European,38
+All — Cells of the adult human heart,H5,right cardiac atrium,UBERON:0002078,mature NK T cell,CL:0000814,female,sixth decade human stage,European,7
+All — Cells of the adult human heart,H5,right cardiac atrium,UBERON:0002078,"activated CD4-positive, alpha-beta T cell",CL:0000896,female,sixth decade human stage,European,5
+All — Cells of the adult human heart,H5,right cardiac atrium,UBERON:0002078,"activated CD8-positive, alpha-beta T cell",CL:0000906,female,sixth decade human stage,European,39
+All — Cells of the adult human heart,H5,right cardiac atrium,UBERON:0002078,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,female,sixth decade human stage,European,11
+All — Cells of the adult human heart,H5,right cardiac atrium,UBERON:0002078,CD14-positive monocyte,CL:0001054,female,sixth decade human stage,European,9
+All — Cells of the adult human heart,H5,right cardiac atrium,UBERON:0002078,regular atrial cardiac myocyte,CL:0002129,female,sixth decade human stage,European,360
+All — Cells of the adult human heart,H5,right cardiac atrium,UBERON:0002078,endothelial cell of lymphatic vessel,CL:0002138,female,sixth decade human stage,European,11
+All — Cells of the adult human heart,H5,right cardiac atrium,UBERON:0002078,capillary endothelial cell,CL:0002144,female,sixth decade human stage,European,66
+All — Cells of the adult human heart,H5,right cardiac atrium,UBERON:0002078,neural cell,CL:0002319,female,sixth decade human stage,European,52
+All — Cells of the adult human heart,H5,right cardiac atrium,UBERON:0002078,"CD14-positive, CD16-positive monocyte",CL:0002397,female,sixth decade human stage,European,18
+All — Cells of the adult human heart,H5,right cardiac atrium,UBERON:0002078,vein endothelial cell,CL:0002543,female,sixth decade human stage,European,64
+All — Cells of the adult human heart,H5,right cardiac atrium,UBERON:0002078,epicardial adipocyte,CL:1000309,female,sixth decade human stage,European,272
+All — Cells of the adult human heart,H5,right cardiac atrium,UBERON:0002078,endothelial cell of artery,CL:1000413,female,sixth decade human stage,European,28

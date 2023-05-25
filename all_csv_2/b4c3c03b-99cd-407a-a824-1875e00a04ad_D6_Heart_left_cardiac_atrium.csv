@@ -1,0 +1,27 @@
+dataset_name,donor_id,tissue,tissue_ontology_term_id,cell_type,cell_type_ontology_id,sex,development_stage,race,cell_count
+All — Cells of the adult human heart,D6,left cardiac atrium,UBERON:0002079,native cell,CL:0000003,male,eighth decade human stage,European,871
+All — Cells of the adult human heart,D6,left cardiac atrium,UBERON:0002079,fibroblast,CL:0000057,male,eighth decade human stage,European,996
+All — Cells of the adult human heart,D6,left cardiac atrium,UBERON:0002079,mesothelial cell,CL:0000077,male,eighth decade human stage,European,230
+All — Cells of the adult human heart,D6,left cardiac atrium,UBERON:0002079,mast cell,CL:0000097,male,eighth decade human stage,European,19
+All — Cells of the adult human heart,D6,left cardiac atrium,UBERON:0002079,endothelial cell,CL:0000115,male,eighth decade human stage,European,606
+All — Cells of the adult human heart,D6,left cardiac atrium,UBERON:0002079,smooth muscle cell,CL:0000192,male,eighth decade human stage,European,543
+All — Cells of the adult human heart,D6,left cardiac atrium,UBERON:0002079,macrophage,CL:0000235,male,eighth decade human stage,European,1472
+All — Cells of the adult human heart,D6,left cardiac atrium,UBERON:0002079,B cell,CL:0000236,male,eighth decade human stage,European,35
+All — Cells of the adult human heart,D6,left cardiac atrium,UBERON:0002079,dendritic cell,CL:0000451,male,eighth decade human stage,European,33
+All — Cells of the adult human heart,D6,left cardiac atrium,UBERON:0002079,monocyte,CL:0000576,male,eighth decade human stage,European,139
+All — Cells of the adult human heart,D6,left cardiac atrium,UBERON:0002079,natural killer cell,CL:0000623,male,eighth decade human stage,European,329
+All — Cells of the adult human heart,D6,left cardiac atrium,UBERON:0002079,pericyte,CL:0000669,male,eighth decade human stage,European,3226
+All — Cells of the adult human heart,D6,left cardiac atrium,UBERON:0002079,"CD8-positive, alpha-beta cytotoxic T cell",CL:0000794,male,eighth decade human stage,European,132
+All — Cells of the adult human heart,D6,left cardiac atrium,UBERON:0002079,mature NK T cell,CL:0000814,male,eighth decade human stage,European,182
+All — Cells of the adult human heart,D6,left cardiac atrium,UBERON:0002079,"activated CD4-positive, alpha-beta T cell",CL:0000896,male,eighth decade human stage,European,62
+All — Cells of the adult human heart,D6,left cardiac atrium,UBERON:0002079,"activated CD8-positive, alpha-beta T cell",CL:0000906,male,eighth decade human stage,European,202
+All — Cells of the adult human heart,D6,left cardiac atrium,UBERON:0002079,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,male,eighth decade human stage,European,99
+All — Cells of the adult human heart,D6,left cardiac atrium,UBERON:0002079,CD14-positive monocyte,CL:0001054,male,eighth decade human stage,European,101
+All — Cells of the adult human heart,D6,left cardiac atrium,UBERON:0002079,regular atrial cardiac myocyte,CL:0002129,male,eighth decade human stage,European,1896
+All — Cells of the adult human heart,D6,left cardiac atrium,UBERON:0002079,endothelial cell of lymphatic vessel,CL:0002138,male,eighth decade human stage,European,13
+All — Cells of the adult human heart,D6,left cardiac atrium,UBERON:0002079,capillary endothelial cell,CL:0002144,male,eighth decade human stage,European,4457
+All — Cells of the adult human heart,D6,left cardiac atrium,UBERON:0002079,neural cell,CL:0002319,male,eighth decade human stage,European,171
+All — Cells of the adult human heart,D6,left cardiac atrium,UBERON:0002079,"CD14-positive, CD16-positive monocyte",CL:0002397,male,eighth decade human stage,European,209
+All — Cells of the adult human heart,D6,left cardiac atrium,UBERON:0002079,vein endothelial cell,CL:0002543,male,eighth decade human stage,European,720
+All — Cells of the adult human heart,D6,left cardiac atrium,UBERON:0002079,epicardial adipocyte,CL:1000309,male,eighth decade human stage,European,44
+All — Cells of the adult human heart,D6,left cardiac atrium,UBERON:0002079,endothelial cell of artery,CL:1000413,male,eighth decade human stage,European,824

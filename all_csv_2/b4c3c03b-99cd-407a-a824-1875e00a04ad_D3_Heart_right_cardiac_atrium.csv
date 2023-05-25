@@ -1,0 +1,22 @@
+dataset_name,donor_id,tissue,tissue_ontology_term_id,cell_type,cell_type_ontology_id,sex,development_stage,race,cell_count
+All — Cells of the adult human heart,D3,right cardiac atrium,UBERON:0002078,native cell,CL:0000003,male,sixth decade human stage,European,448
+All — Cells of the adult human heart,D3,right cardiac atrium,UBERON:0002078,fibroblast,CL:0000057,male,sixth decade human stage,European,1999
+All — Cells of the adult human heart,D3,right cardiac atrium,UBERON:0002078,mesothelial cell,CL:0000077,male,sixth decade human stage,European,78
+All — Cells of the adult human heart,D3,right cardiac atrium,UBERON:0002078,mast cell,CL:0000097,male,sixth decade human stage,European,5
+All — Cells of the adult human heart,D3,right cardiac atrium,UBERON:0002078,endothelial cell,CL:0000115,male,sixth decade human stage,European,1055
+All — Cells of the adult human heart,D3,right cardiac atrium,UBERON:0002078,smooth muscle cell,CL:0000192,male,sixth decade human stage,European,75
+All — Cells of the adult human heart,D3,right cardiac atrium,UBERON:0002078,macrophage,CL:0000235,male,sixth decade human stage,European,262
+All — Cells of the adult human heart,D3,right cardiac atrium,UBERON:0002078,B cell,CL:0000236,male,sixth decade human stage,European,2
+All — Cells of the adult human heart,D3,right cardiac atrium,UBERON:0002078,dendritic cell,CL:0000451,male,sixth decade human stage,European,1
+All — Cells of the adult human heart,D3,right cardiac atrium,UBERON:0002078,monocyte,CL:0000576,male,sixth decade human stage,European,4
+All — Cells of the adult human heart,D3,right cardiac atrium,UBERON:0002078,pericyte,CL:0000669,male,sixth decade human stage,European,342
+All — Cells of the adult human heart,D3,right cardiac atrium,UBERON:0002078,mature NK T cell,CL:0000814,male,sixth decade human stage,European,1
+All — Cells of the adult human heart,D3,right cardiac atrium,UBERON:0002078,"activated CD4-positive, alpha-beta T cell",CL:0000896,male,sixth decade human stage,European,2
+All — Cells of the adult human heart,D3,right cardiac atrium,UBERON:0002078,"activated CD8-positive, alpha-beta T cell",CL:0000906,male,sixth decade human stage,European,10
+All — Cells of the adult human heart,D3,right cardiac atrium,UBERON:0002078,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,male,sixth decade human stage,European,21
+All — Cells of the adult human heart,D3,right cardiac atrium,UBERON:0002078,regular atrial cardiac myocyte,CL:0002129,male,sixth decade human stage,European,1797
+All — Cells of the adult human heart,D3,right cardiac atrium,UBERON:0002078,capillary endothelial cell,CL:0002144,male,sixth decade human stage,European,94
+All — Cells of the adult human heart,D3,right cardiac atrium,UBERON:0002078,neural cell,CL:0002319,male,sixth decade human stage,European,84
+All — Cells of the adult human heart,D3,right cardiac atrium,UBERON:0002078,vein endothelial cell,CL:0002543,male,sixth decade human stage,European,68
+All — Cells of the adult human heart,D3,right cardiac atrium,UBERON:0002078,epicardial adipocyte,CL:1000309,male,sixth decade human stage,European,49
+All — Cells of the adult human heart,D3,right cardiac atrium,UBERON:0002078,endothelial cell of artery,CL:1000413,male,sixth decade human stage,European,41

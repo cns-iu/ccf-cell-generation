@@ -1,0 +1,17 @@
+dataset_name,donor_id,tissue,tissue_ontology_term_id,cell_type,cell_type_ontology_id,sex,development_stage,race,cell_count
+All — Cells of the adult human heart,D1,left cardiac atrium,UBERON:0002079,native cell,CL:0000003,female,sixth decade human stage,European,39
+All — Cells of the adult human heart,D1,left cardiac atrium,UBERON:0002079,fibroblast,CL:0000057,female,sixth decade human stage,European,355
+All — Cells of the adult human heart,D1,left cardiac atrium,UBERON:0002079,mesothelial cell,CL:0000077,female,sixth decade human stage,European,1
+All — Cells of the adult human heart,D1,left cardiac atrium,UBERON:0002079,endothelial cell,CL:0000115,female,sixth decade human stage,European,22
+All — Cells of the adult human heart,D1,left cardiac atrium,UBERON:0002079,smooth muscle cell,CL:0000192,female,sixth decade human stage,European,10
+All — Cells of the adult human heart,D1,left cardiac atrium,UBERON:0002079,macrophage,CL:0000235,female,sixth decade human stage,European,19
+All — Cells of the adult human heart,D1,left cardiac atrium,UBERON:0002079,dendritic cell,CL:0000451,female,sixth decade human stage,European,1
+All — Cells of the adult human heart,D1,left cardiac atrium,UBERON:0002079,monocyte,CL:0000576,female,sixth decade human stage,European,1
+All — Cells of the adult human heart,D1,left cardiac atrium,UBERON:0002079,pericyte,CL:0000669,female,sixth decade human stage,European,148
+All — Cells of the adult human heart,D1,left cardiac atrium,UBERON:0002079,CD14-positive monocyte,CL:0001054,female,sixth decade human stage,European,1
+All — Cells of the adult human heart,D1,left cardiac atrium,UBERON:0002079,regular atrial cardiac myocyte,CL:0002129,female,sixth decade human stage,European,404
+All — Cells of the adult human heart,D1,left cardiac atrium,UBERON:0002079,capillary endothelial cell,CL:0002144,female,sixth decade human stage,European,18
+All — Cells of the adult human heart,D1,left cardiac atrium,UBERON:0002079,neural cell,CL:0002319,female,sixth decade human stage,European,31
+All — Cells of the adult human heart,D1,left cardiac atrium,UBERON:0002079,vein endothelial cell,CL:0002543,female,sixth decade human stage,European,4
+All — Cells of the adult human heart,D1,left cardiac atrium,UBERON:0002079,epicardial adipocyte,CL:1000309,female,sixth decade human stage,European,6
+All — Cells of the adult human heart,D1,left cardiac atrium,UBERON:0002079,endothelial cell of artery,CL:1000413,female,sixth decade human stage,European,7

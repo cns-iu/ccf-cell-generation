@@ -1,0 +1,27 @@
+dataset_name,donor_id,tissue,tissue_ontology_term_id,cell_type,cell_type_ontology_id,sex,development_stage,race,cell_count
+All — Cells of the adult human heart,D7,left cardiac atrium,UBERON:0002079,native cell,CL:0000003,male,seventh decade human stage,European,331
+All — Cells of the adult human heart,D7,left cardiac atrium,UBERON:0002079,fibroblast,CL:0000057,male,seventh decade human stage,European,640
+All — Cells of the adult human heart,D7,left cardiac atrium,UBERON:0002079,mesothelial cell,CL:0000077,male,seventh decade human stage,European,36
+All — Cells of the adult human heart,D7,left cardiac atrium,UBERON:0002079,mast cell,CL:0000097,male,seventh decade human stage,European,14
+All — Cells of the adult human heart,D7,left cardiac atrium,UBERON:0002079,endothelial cell,CL:0000115,male,seventh decade human stage,European,287
+All — Cells of the adult human heart,D7,left cardiac atrium,UBERON:0002079,smooth muscle cell,CL:0000192,male,seventh decade human stage,European,114
+All — Cells of the adult human heart,D7,left cardiac atrium,UBERON:0002079,macrophage,CL:0000235,male,seventh decade human stage,European,356
+All — Cells of the adult human heart,D7,left cardiac atrium,UBERON:0002079,B cell,CL:0000236,male,seventh decade human stage,European,55
+All — Cells of the adult human heart,D7,left cardiac atrium,UBERON:0002079,dendritic cell,CL:0000451,male,seventh decade human stage,European,55
+All — Cells of the adult human heart,D7,left cardiac atrium,UBERON:0002079,monocyte,CL:0000576,male,seventh decade human stage,European,72
+All — Cells of the adult human heart,D7,left cardiac atrium,UBERON:0002079,natural killer cell,CL:0000623,male,seventh decade human stage,European,76
+All — Cells of the adult human heart,D7,left cardiac atrium,UBERON:0002079,pericyte,CL:0000669,male,seventh decade human stage,European,596
+All — Cells of the adult human heart,D7,left cardiac atrium,UBERON:0002079,"CD8-positive, alpha-beta cytotoxic T cell",CL:0000794,male,seventh decade human stage,European,94
+All — Cells of the adult human heart,D7,left cardiac atrium,UBERON:0002079,mature NK T cell,CL:0000814,male,seventh decade human stage,European,38
+All — Cells of the adult human heart,D7,left cardiac atrium,UBERON:0002079,"activated CD4-positive, alpha-beta T cell",CL:0000896,male,seventh decade human stage,European,20
+All — Cells of the adult human heart,D7,left cardiac atrium,UBERON:0002079,"activated CD8-positive, alpha-beta T cell",CL:0000906,male,seventh decade human stage,European,33
+All — Cells of the adult human heart,D7,left cardiac atrium,UBERON:0002079,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,male,seventh decade human stage,European,105
+All — Cells of the adult human heart,D7,left cardiac atrium,UBERON:0002079,CD14-positive monocyte,CL:0001054,male,seventh decade human stage,European,58
+All — Cells of the adult human heart,D7,left cardiac atrium,UBERON:0002079,regular atrial cardiac myocyte,CL:0002129,male,seventh decade human stage,European,1325
+All — Cells of the adult human heart,D7,left cardiac atrium,UBERON:0002079,endothelial cell of lymphatic vessel,CL:0002138,male,seventh decade human stage,European,13
+All — Cells of the adult human heart,D7,left cardiac atrium,UBERON:0002079,capillary endothelial cell,CL:0002144,male,seventh decade human stage,European,502
+All — Cells of the adult human heart,D7,left cardiac atrium,UBERON:0002079,neural cell,CL:0002319,male,seventh decade human stage,European,56
+All — Cells of the adult human heart,D7,left cardiac atrium,UBERON:0002079,"CD14-positive, CD16-positive monocyte",CL:0002397,male,seventh decade human stage,European,153
+All — Cells of the adult human heart,D7,left cardiac atrium,UBERON:0002079,vein endothelial cell,CL:0002543,male,seventh decade human stage,European,125
+All — Cells of the adult human heart,D7,left cardiac atrium,UBERON:0002079,epicardial adipocyte,CL:1000309,male,seventh decade human stage,European,45
+All — Cells of the adult human heart,D7,left cardiac atrium,UBERON:0002079,endothelial cell of artery,CL:1000413,male,seventh decade human stage,European,200

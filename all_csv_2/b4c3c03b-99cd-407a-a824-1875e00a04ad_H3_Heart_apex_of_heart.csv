@@ -1,0 +1,23 @@
+dataset_name,donor_id,tissue,tissue_ontology_term_id,cell_type,cell_type_ontology_id,sex,development_stage,race,cell_count
+All — Cells of the adult human heart,H3,apex of heart,UBERON:0002098,native cell,CL:0000003,male,sixth decade human stage,Asian,467
+All — Cells of the adult human heart,H3,apex of heart,UBERON:0002098,fibroblast,CL:0000057,male,sixth decade human stage,Asian,131
+All — Cells of the adult human heart,H3,apex of heart,UBERON:0002098,mast cell,CL:0000097,male,sixth decade human stage,Asian,73
+All — Cells of the adult human heart,H3,apex of heart,UBERON:0002098,endothelial cell,CL:0000115,male,sixth decade human stage,Asian,15
+All — Cells of the adult human heart,H3,apex of heart,UBERON:0002098,smooth muscle cell,CL:0000192,male,sixth decade human stage,Asian,83
+All — Cells of the adult human heart,H3,apex of heart,UBERON:0002098,macrophage,CL:0000235,male,sixth decade human stage,Asian,46
+All — Cells of the adult human heart,H3,apex of heart,UBERON:0002098,dendritic cell,CL:0000451,male,sixth decade human stage,Asian,5
+All — Cells of the adult human heart,H3,apex of heart,UBERON:0002098,natural killer cell,CL:0000623,male,sixth decade human stage,Asian,4
+All — Cells of the adult human heart,H3,apex of heart,UBERON:0002098,pericyte,CL:0000669,male,sixth decade human stage,Asian,690
+All — Cells of the adult human heart,H3,apex of heart,UBERON:0002098,"CD8-positive, alpha-beta cytotoxic T cell",CL:0000794,male,sixth decade human stage,Asian,11
+All — Cells of the adult human heart,H3,apex of heart,UBERON:0002098,mature NK T cell,CL:0000814,male,sixth decade human stage,Asian,2
+All — Cells of the adult human heart,H3,apex of heart,UBERON:0002098,"activated CD4-positive, alpha-beta T cell",CL:0000896,male,sixth decade human stage,Asian,2
+All — Cells of the adult human heart,H3,apex of heart,UBERON:0002098,"activated CD8-positive, alpha-beta T cell",CL:0000906,male,sixth decade human stage,Asian,8
+All — Cells of the adult human heart,H3,apex of heart,UBERON:0002098,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,male,sixth decade human stage,Asian,6
+All — Cells of the adult human heart,H3,apex of heart,UBERON:0002098,CD14-positive monocyte,CL:0001054,male,sixth decade human stage,Asian,1
+All — Cells of the adult human heart,H3,apex of heart,UBERON:0002098,regular ventricular cardiac myocyte,CL:0002131,male,sixth decade human stage,Asian,1082
+All — Cells of the adult human heart,H3,apex of heart,UBERON:0002098,capillary endothelial cell,CL:0002144,male,sixth decade human stage,Asian,78
+All — Cells of the adult human heart,H3,apex of heart,UBERON:0002098,neural cell,CL:0002319,male,sixth decade human stage,Asian,13
+All — Cells of the adult human heart,H3,apex of heart,UBERON:0002098,"CD14-positive, CD16-positive monocyte",CL:0002397,male,sixth decade human stage,Asian,2
+All — Cells of the adult human heart,H3,apex of heart,UBERON:0002098,vein endothelial cell,CL:0002543,male,sixth decade human stage,Asian,2
+All — Cells of the adult human heart,H3,apex of heart,UBERON:0002098,epicardial adipocyte,CL:1000309,male,sixth decade human stage,Asian,1
+All — Cells of the adult human heart,H3,apex of heart,UBERON:0002098,endothelial cell of artery,CL:1000413,male,sixth decade human stage,Asian,22

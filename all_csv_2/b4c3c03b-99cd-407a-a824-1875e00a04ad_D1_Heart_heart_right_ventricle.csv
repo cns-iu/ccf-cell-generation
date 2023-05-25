@@ -1,0 +1,20 @@
+dataset_name,donor_id,tissue,tissue_ontology_term_id,cell_type,cell_type_ontology_id,sex,development_stage,race,cell_count
+All — Cells of the adult human heart,D1,heart right ventricle,UBERON:0002080,native cell,CL:0000003,female,sixth decade human stage,European,101
+All — Cells of the adult human heart,D1,heart right ventricle,UBERON:0002080,fibroblast,CL:0000057,female,sixth decade human stage,European,799
+All — Cells of the adult human heart,D1,heart right ventricle,UBERON:0002080,mast cell,CL:0000097,female,sixth decade human stage,European,2
+All — Cells of the adult human heart,D1,heart right ventricle,UBERON:0002080,endothelial cell,CL:0000115,female,sixth decade human stage,European,48
+All — Cells of the adult human heart,D1,heart right ventricle,UBERON:0002080,smooth muscle cell,CL:0000192,female,sixth decade human stage,European,6
+All — Cells of the adult human heart,D1,heart right ventricle,UBERON:0002080,macrophage,CL:0000235,female,sixth decade human stage,European,113
+All — Cells of the adult human heart,D1,heart right ventricle,UBERON:0002080,dendritic cell,CL:0000451,female,sixth decade human stage,European,9
+All — Cells of the adult human heart,D1,heart right ventricle,UBERON:0002080,monocyte,CL:0000576,female,sixth decade human stage,European,2
+All — Cells of the adult human heart,D1,heart right ventricle,UBERON:0002080,pericyte,CL:0000669,female,sixth decade human stage,European,385
+All — Cells of the adult human heart,D1,heart right ventricle,UBERON:0002080,"CD8-positive, alpha-beta cytotoxic T cell",CL:0000794,female,sixth decade human stage,European,1
+All — Cells of the adult human heart,D1,heart right ventricle,UBERON:0002080,"activated CD4-positive, alpha-beta T cell",CL:0000896,female,sixth decade human stage,European,2
+All — Cells of the adult human heart,D1,heart right ventricle,UBERON:0002080,"activated CD8-positive, alpha-beta T cell",CL:0000906,female,sixth decade human stage,European,7
+All — Cells of the adult human heart,D1,heart right ventricle,UBERON:0002080,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,female,sixth decade human stage,European,5
+All — Cells of the adult human heart,D1,heart right ventricle,UBERON:0002080,regular ventricular cardiac myocyte,CL:0002131,female,sixth decade human stage,European,1840
+All — Cells of the adult human heart,D1,heart right ventricle,UBERON:0002080,capillary endothelial cell,CL:0002144,female,sixth decade human stage,European,48
+All — Cells of the adult human heart,D1,heart right ventricle,UBERON:0002080,neural cell,CL:0002319,female,sixth decade human stage,European,14
+All — Cells of the adult human heart,D1,heart right ventricle,UBERON:0002080,vein endothelial cell,CL:0002543,female,sixth decade human stage,European,11
+All — Cells of the adult human heart,D1,heart right ventricle,UBERON:0002080,epicardial adipocyte,CL:1000309,female,sixth decade human stage,European,13
+All — Cells of the adult human heart,D1,heart right ventricle,UBERON:0002080,endothelial cell of artery,CL:1000413,female,sixth decade human stage,European,14
