@@ -1,0 +1,905 @@
+organ,AS,cell_type,count
+3d-vh-f-skin,VH_F_skin,Adipocyte,19707.193757272697
+3d-vh-f-skin,VH_F_skin,"CD68 
+/ Macrophage",59151.20449565115
+3d-vh-f-skin,VH_F_skin,Endothelial cell,8249.522968160665
+3d-vh-f-skin,VH_F_skin,Epithelial cell,30248.25088325577
+3d-vh-f-skin,VH_F_skin,Epithelial cell (keratinocyte),5957.988810338257
+3d-vh-f-skin,VH_F_skin,Fibroblast,5957.988810338257
+3d-vh-f-skin,VH_F_skin,Immune (myeloid),916.6136631289627
+3d-vh-f-skin,VH_F_skin,Melanocyte,50413.75147209295
+3d-vh-f-skin,VH_F_skin,Muscle,2749.840989386888
+3d-vh-f-skin,VH_F_skin,Other,25206.875736046473
+3d-vh-f-skin,VH_F_skin,T-Killer,19996.0978530973
+3d-vh-f-skin,VH_F_skin,T-helper,554850.5889228277
+3d-vh-f-skin,VH_F_skin,T-reg,50310.40172477152
+VH_F_Heart,VH_F_left_ventricle,Adipocyte,941.6131751453697
+VH_F_Heart,VH_F_left_ventricle,Arterial Endothelial,4335.307316937016
+VH_F_Heart,VH_F_left_ventricle,Atrial Cardiomyocyte,175.41929858380576
+VH_F_Heart,VH_F_left_ventricle,B,24208.755159884193
+VH_F_Heart,VH_F_left_ventricle,B cell,313.4239555144223
+VH_F_Heart,VH_F_left_ventricle,CD14-positive monocyte,280.7656700206455
+VH_F_Heart,VH_F_left_ventricle,"CD14-positive, CD16-positive monocyte",362.65034681967614
+VH_F_Heart,VH_F_left_ventricle,"CD4-positive, alpha-beta cytotoxic T cell",894.4546816261437
+VH_F_Heart,VH_F_left_ventricle,"CD8-positive, alpha-beta cytotoxic T cell",474.86740195048793
+VH_F_Heart,VH_F_left_ventricle,Capillary Endothelial,7834.00950640283
+VH_F_Heart,VH_F_left_ventricle,Endocardial,2364.9801460446683
+VH_F_Heart,VH_F_left_ventricle,Endothelial,57.93026275861737
+VH_F_Heart,VH_F_left_ventricle,Fibroblast,330441.7929446642
+VH_F_Heart,VH_F_left_ventricle,Lymphatic Endothelial,384.64987719536
+VH_F_Heart,VH_F_left_ventricle,Macrophage,6082.33059987679
+VH_F_Heart,VH_F_left_ventricle,Mast,585.7591919835899
+VH_F_Heart,VH_F_left_ventricle,Mesothelial,2761.382971488671
+VH_F_Heart,VH_F_left_ventricle,Monocyte/cDC,8979.995403267269
+VH_F_Heart,VH_F_left_ventricle,NK,1547.506289341542
+VH_F_Heart,VH_F_left_ventricle,Neuronal,785.7445153435851
+VH_F_Heart,VH_F_left_ventricle,Pericyte,10124.448584547752
+VH_F_Heart,VH_F_left_ventricle,Smooth Muscle,4146.664088898298
+VH_F_Heart,VH_F_left_ventricle,T,948.0484518263421
+VH_F_Heart,VH_F_left_ventricle,Venous Endothelial,2491.433439264357
+VH_F_Heart,VH_F_left_ventricle,Ventricular Cardiomycoyte,148598.26600472047
+VH_F_Heart,VH_F_left_ventricle,"activated CD4-positive, alpha-beta T cell",254.83021207729485
+VH_F_Heart,VH_F_left_ventricle,"activated CD8-positive, alpha-beta T cell",1158.7478310611477
+VH_F_Heart,VH_F_left_ventricle,capillary endothelial cell,24260.645478003877
+VH_F_Heart,VH_F_left_ventricle,dendritic cell,223.03219361603698
+VH_F_Heart,VH_F_left_ventricle,endothelial cell,4598.891970620738
+VH_F_Heart,VH_F_left_ventricle,endothelial cell of artery,8105.2448099423455
+VH_F_Heart,VH_F_left_ventricle,endothelial cell of lymphatic vessel,344.90335655622863
+VH_F_Heart,VH_F_left_ventricle,epicardial adipocyte,1298.2703990389514
+VH_F_Heart,VH_F_left_ventricle,fibroblast,28824.266500291335
+VH_F_Heart,VH_F_left_ventricle,macrophage,6021.678057181328
+VH_F_Heart,VH_F_left_ventricle,mast cell,1332.1075689846987
+VH_F_Heart,VH_F_left_ventricle,mature NK T cell,458.4586048487366
+VH_F_Heart,VH_F_left_ventricle,mesothelial cell,105.62167454816608
+VH_F_Heart,VH_F_left_ventricle,monocyte,345.3812826854059
+VH_F_Heart,VH_F_left_ventricle,native cell,18343.473934402635
+VH_F_Heart,VH_F_left_ventricle,natural killer cell,678.6869651736006
+VH_F_Heart,VH_F_left_ventricle,neural cell,1892.7786419934705
+VH_F_Heart,VH_F_left_ventricle,pericyte,52821.70212808634
+VH_F_Heart,VH_F_left_ventricle,regular ventricular cardiac myocyte,139704.17990689105
+VH_F_Heart,VH_F_left_ventricle,smooth muscle cell,7778.247752359291
+VH_F_Heart,VH_F_left_ventricle,vein endothelial cell,4133.264473834342
+VH_F_Heart,VH_F_right_cardiac_atrium,Adipocyte,421.2569634753595
+VH_F_Heart,VH_F_right_cardiac_atrium,B cell,27.166651413310603
+VH_F_Heart,VH_F_right_cardiac_atrium,CD14-positive monocyte,57.593300996218474
+VH_F_Heart,VH_F_right_cardiac_atrium,"CD14-positive, CD16-positive monocyte",156.47991214066906
+VH_F_Heart,VH_F_right_cardiac_atrium,"CD4-positive, alpha-beta cytotoxic T cell",66.28662944847787
+VH_F_Heart,VH_F_right_cardiac_atrium,"CD8-positive, alpha-beta cytotoxic T cell",113.01326987937209
+VH_F_Heart,VH_F_right_cardiac_atrium,Endothelial cell,16203.560102129672
+VH_F_Heart,VH_F_right_cardiac_atrium,Fibroblast,19226.523804815522
+VH_F_Heart,VH_F_right_cardiac_atrium,Glia,602.219461869704
+VH_F_Heart,VH_F_right_cardiac_atrium,Immune (lymphocyte),1168.8397437274057
+VH_F_Heart,VH_F_right_cardiac_atrium,Immune (myeloid),8721.79910294054
+VH_F_Heart,VH_F_right_cardiac_atrium,Muscle,26358.226200553298
+VH_F_Heart,VH_F_right_cardiac_atrium,"activated CD4-positive, alpha-beta T cell",23.90665324371333
+VH_F_Heart,VH_F_right_cardiac_atrium,"activated CD8-positive, alpha-beta T cell",154.3065800276042
+VH_F_Heart,VH_F_right_cardiac_atrium,capillary endothelial cell,585.7130044709766
+VH_F_Heart,VH_F_right_cardiac_atrium,dendritic cell,18.473322961051206
+VH_F_Heart,VH_F_right_cardiac_atrium,endothelial cell,1433.312528566267
+VH_F_Heart,VH_F_right_cardiac_atrium,endothelial cell of artery,404.2397730300617
+VH_F_Heart,VH_F_right_cardiac_atrium,endothelial cell of lymphatic vessel,13.039992678389087
+VH_F_Heart,VH_F_right_cardiac_atrium,epicardial adipocyte,519.4263750224986
+VH_F_Heart,VH_F_right_cardiac_atrium,fibroblast,4811.757298325573
+VH_F_Heart,VH_F_right_cardiac_atrium,macrophage,495.51972177878537
+VH_F_Heart,VH_F_right_cardiac_atrium,mast cell,16.29999084798636
+VH_F_Heart,VH_F_right_cardiac_atrium,mature NK T cell,23.90665324371333
+VH_F_Heart,VH_F_right_cardiac_atrium,mesothelial cell,80.41328818339937
+VH_F_Heart,VH_F_right_cardiac_atrium,monocyte,44.553308317829384
+VH_F_Heart,VH_F_right_cardiac_atrium,native cell,853.0328543779527
+VH_F_Heart,VH_F_right_cardiac_atrium,natural killer cell,46.726640430894236
+VH_F_Heart,VH_F_right_cardiac_atrium,neural cell,430.3197583868399
+VH_F_Heart,VH_F_right_cardiac_atrium,pericyte,1023.6394252535434
+VH_F_Heart,VH_F_right_cardiac_atrium,regular atrial cardiac myocyte,3532.7513497869104
+VH_F_Heart,VH_F_right_cardiac_atrium,smooth muscle cell,836.7328635299665
+VH_F_Heart,VH_F_right_cardiac_atrium,vein endothelial cell,693.2929440676864
+VH_F_Heart,VH_F_right_ventricle,B cell,173.35987867977033
+VH_F_Heart,VH_F_right_ventricle,CD14-positive monocyte,98.39344465608585
+VH_F_Heart,VH_F_right_ventricle,"CD14-positive, CD16-positive monocyte",238.95550845049425
+VH_F_Heart,VH_F_right_ventricle,"CD4-positive, alpha-beta cytotoxic T cell",267.06792120937587
+VH_F_Heart,VH_F_right_ventricle,"CD8-positive, alpha-beta cytotoxic T cell",168.67447655329005
+VH_F_Heart,VH_F_right_ventricle,"activated CD4-positive, alpha-beta T cell",46.85402126480278
+VH_F_Heart,VH_F_right_ventricle,"activated CD8-positive, alpha-beta T cell",477.9110169009884
+VH_F_Heart,VH_F_right_ventricle,capillary endothelial cell,8672.679336114996
+VH_F_Heart,VH_F_right_ventricle,dendritic cell,271.7533233358562
+VH_F_Heart,VH_F_right_ventricle,endothelial cell,3340.6917161804386
+VH_F_Heart,VH_F_right_ventricle,endothelial cell of artery,4338.682369120738
+VH_F_Heart,VH_F_right_ventricle,endothelial cell of lymphatic vessel,299.8657360947378
+VH_F_Heart,VH_F_right_ventricle,epicardial adipocyte,763.7205466162853
+VH_F_Heart,VH_F_right_ventricle,fibroblast,24143.87715775288
+VH_F_Heart,VH_F_right_ventricle,macrophage,4399.592596764982
+VH_F_Heart,VH_F_right_ventricle,mast cell,459.1694083950673
+VH_F_Heart,VH_F_right_ventricle,mature NK T cell,234.27010632401394
+VH_F_Heart,VH_F_right_ventricle,mesothelial cell,14.056206379440836
+VH_F_Heart,VH_F_right_ventricle,monocyte,163.98907442680976
+VH_F_Heart,VH_F_right_ventricle,native cell,13142.552964777182
+VH_F_Heart,VH_F_right_ventricle,natural killer cell,435.7423977626659
+VH_F_Heart,VH_F_right_ventricle,neural cell,815.2599700075685
+VH_F_Heart,VH_F_right_ventricle,pericyte,31012.676675172963
+VH_F_Heart,VH_F_right_ventricle,regular ventricular cardiac myocyte,85934.96040177478
+VH_F_Heart,VH_F_right_ventricle,smooth muscle cell,3884.1983628521507
+VH_F_Heart,VH_F_right_ventricle,vein endothelial cell,1775.7674059360254
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Afferent / Efferent Arteriole Endothelial,24810.235580938624
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Ascending Thin Limb,686416.5177393019
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Ascending Vasa Recta Endothelial,16540.157053959083
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,B,8270.078526979541
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Connecting Tubule,9659451.719512105
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Connecting Tubule Principal,8270.078526979541
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Cortical Collecting Duct Intercalated Type A,496204.7116187725
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Cortical Collecting Duct Principal,165401.57053959084
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Cortical Thick Ascending Limb,818737.7741709746
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Cortical Vascular Smooth Muscle / Pericyte,124051.17790469312
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Descending Thin Limb Type 1,388693.69076803845
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Descending Thin Limb Type 2,1372833.0354786038
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Descending Thin Limb Type 3,8270.078526979541
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Descending Vasa Recta Endothelial ,16540.157053959083
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Distal Convoluted Tubule Type 1,3117819.6046712874
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Fibroblast,57890.549688856794
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Glomerular Capillary Endothelial,99240.9423237545
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Inner Medullary Collecting Duct,12066044.570863152
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Intercalated Type B,41350.39263489771
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Lymphatic Endothelial,49620.47116187725
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,M2 Macrophage,297722.8269712635
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Macula Densa,124051.17790469312
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Medullary Fibroblast,16540.157053959083
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Medullary Thick Ascending Limb,3374192.039007653
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Mesangial,16540.157053959083
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Natural Killer T,74430.70674281588
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Non-classical monocyte,8270.078526979541
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Outer Medullary Collecting Duct Intercalated Type A,1290132.2502088086
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Outer Medullary Collecting Duct Principal,16540.157053959083
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Papillary Tip Epithelial,8270.078526979541
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Parietal Epithelial,66160.62821583633
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Peritubular Capilary Endothelial ,1372833.0354786038
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Podocyte,438314.1619299157
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Proximal Tubule Epithelial Segment 1,2216381.045230517
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Proximal Tubule Epithelial Segment 3,1091650.3655612995
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,T,140591.3349586522
+VH_F_Kidney_L,VH_F_outer_cortex_of_kidney_L,Vascular Smooth Muscle / Pericyte,115781.09937771359
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Ascending Thin Limb,3056.0636678051437
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Ascending Vasa Recta Endothelial,2037.3757785367625
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Connecting Tubule,255690.6602063637
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Connecting Tubule Principal,1018.6878892683812
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Cortical Collecting Duct Principal,38710.13979219849
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Cortical Vascular Smooth Muscle / Pericyte,509.3439446341906
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Descending Thin Limb Type 1,361124.85674564115
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Descending Thin Limb Type 2,1018.6878892683812
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Descending Thin Limb Type 3,509.3439446341906
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Descending Vasa Recta Endothelial ,509.3439446341906
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Distal Convoluted Tubule Type 1,2037.3757785367625
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Fibroblast,1528.0318339025719
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Inner Medullary Collecting Duct,657053.688578106
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,M2 Macrophage,1528.0318339025719
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Macula Densa,1018.6878892683812
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Medullary Fibroblast,18845.725951465054
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Monocyte-derived,509.3439446341906
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Papillary Tip Epithelial,29032.60484414887
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Parietal Epithelial,509.3439446341906
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Peritubular Capilary Endothelial ,6112.127335610287
+VH_F_Kidney_L,VH_F_renal_pyramid_L_a,Vascular Smooth Muscle / Pericyte,1018.6878892683812
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Afferent / Efferent Arteriole Endothelial,330.6863520743347
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Ascending Thin Limb,1860.1107304181328
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Ascending Vasa Recta Endothelial,1322.7454082973388
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,B,165.34317603716735
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Connecting Tubule,45428.03761621173
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Connecting Tubule Principal,248.01476405575104
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Cortical Collecting Duct Intercalated Type A,1364.0812023066308
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Cortical Collecting Duct Principal,4712.28051705927
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Cortical Thick Ascending Limb,38318.281046613534
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Cortical Vascular Smooth Muscle / Pericyte,248.01476405575104
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Descending Thin Limb Type 1,37946.25890052991
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Descending Thin Limb Type 2,330.6863520743347
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Descending Thin Limb Type 3,413.3579400929184
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Descending Vasa Recta Endothelial ,2108.125494473884
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Distal Convoluted Tubule Type 1,11615.358116611007
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Fibroblast,1818.774936408841
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Glomerular Capillary Endothelial,578.7011161300858
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Inner Medullary Collecting Duct,60763.617193659
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Intercalated Type B,82.67158801858368
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Macula Densa,4422.929958994227
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Medullary Fibroblast,2356.140258529635
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Medullary Thick Ascending Limb,26826.930312030403
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Mesangial,82.67158801858368
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Outer Medullary Collecting Duct Intercalated Type A,1446.7527903252144
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Outer Medullary Collecting Duct Principal,744.0442921672532
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Parietal Epithelial,248.01476405575104
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Peritubular Capilary Endothelial ,1694.7675543809655
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Plasma,82.67158801858368
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Proximal Tubule Epithelial Segment 1,165.34317603716735
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,T,165.34317603716735
+VH_F_Kidney_L,VH_F_renal_pyramid_L_b,Vascular Smooth Muscle / Pericyte,826.7158801858368
+VH_F_Kidney_L,VH_F_renal_pyramid_L_h,Ascending Thin Limb,15763.72102049811
+VH_F_Kidney_L,VH_F_renal_pyramid_L_h,Ascending Vasa Recta Endothelial,26690.845818797934
+VH_F_Kidney_L,VH_F_renal_pyramid_L_h,B,89.56659670737562
+VH_F_Kidney_L,VH_F_renal_pyramid_L_h,Connecting Tubule,148590.98393753616
+VH_F_Kidney_L,VH_F_renal_pyramid_L_h,Cortical Collecting Duct Principal,54904.32378162126
+VH_F_Kidney_L,VH_F_renal_pyramid_L_h,Descending Thin Limb Type 1,124766.26921337424
+VH_F_Kidney_L,VH_F_renal_pyramid_L_h,Descending Thin Limb Type 2,89.56659670737562
+VH_F_Kidney_L,VH_F_renal_pyramid_L_h,Descending Thin Limb Type 3,3493.097271587649
+VH_F_Kidney_L,VH_F_renal_pyramid_L_h,Descending Vasa Recta Endothelial ,1880.898530854888
+VH_F_Kidney_L,VH_F_renal_pyramid_L_h,Distal Convoluted Tubule Type 1,895.6659670737563
+VH_F_Kidney_L,VH_F_renal_pyramid_L_h,Fibroblast,179.13319341475125
+VH_F_Kidney_L,VH_F_renal_pyramid_L_h,Inner Medullary Collecting Duct,266012.7922209056
+VH_F_Kidney_L,VH_F_renal_pyramid_L_h,Lymphatic Endothelial,89.56659670737562
+VH_F_Kidney_L,VH_F_renal_pyramid_L_h,M2 Macrophage,626.9661769516293
+VH_F_Kidney_L,VH_F_renal_pyramid_L_h,Medullary Fibroblast,28034.344769408573
+VH_F_Kidney_L,VH_F_renal_pyramid_L_h,Medullary Thick Ascending Limb,179.13319341475125
+VH_F_Kidney_L,VH_F_renal_pyramid_L_h,Papillary Tip Epithelial,53829.52462113275
+VH_F_Kidney_L,VH_F_renal_pyramid_L_h,Vascular Smooth Muscle / Pericyte,358.2663868295025
+VH_F_Kidney_R,VH_F_renal_column_R,Afferent / Efferent Arteriole Endothelial,4359.873915033968
+VH_F_Kidney_R,VH_F_renal_column_R,Ascending Thin Limb,1453.291305011323
+VH_F_Kidney_R,VH_F_renal_column_R,Ascending Vasa Recta Endothelial,1453.291305011323
+VH_F_Kidney_R,VH_F_renal_column_R,B,0.0
+VH_F_Kidney_R,VH_F_renal_column_R,Classical Dendritic,0.0
+VH_F_Kidney_R,VH_F_renal_column_R,Connecting Tubule,1276958.626669949
+VH_F_Kidney_R,VH_F_renal_column_R,Connecting Tubule Principal,11626.330440090582
+VH_F_Kidney_R,VH_F_renal_column_R,Cortical Collecting Duct Intercalated Type A,10173.03913507926
+VH_F_Kidney_R,VH_F_renal_column_R,Cortical Collecting Duct Principal,51834.05654540385
+VH_F_Kidney_R,VH_F_renal_column_R,Cortical Vascular Smooth Muscle / Pericyte,249966.10446194754
+VH_F_Kidney_R,VH_F_renal_column_R,Cycling Mononuclear Phagocyte,0.0
+VH_F_Kidney_R,VH_F_renal_column_R,Descending Thin Limb Type 1,1514813.970256802
+VH_F_Kidney_R,VH_F_renal_column_R,Descending Thin Limb Type 2,13079.621745101904
+VH_F_Kidney_R,VH_F_renal_column_R,Descending Thin Limb Type 3,11626.330440090584
+VH_F_Kidney_R,VH_F_renal_column_R,Descending Vasa Recta Endothelial ,13079.621745101904
+VH_F_Kidney_R,VH_F_renal_column_R,Distal Convoluted Tubule Type 1,14532.91305011323
+VH_F_Kidney_R,VH_F_renal_column_R,Fibroblast,1372875.8528006962
+VH_F_Kidney_R,VH_F_renal_column_R,Glomerular Capillary Endothelial,1453.291305011323
+VH_F_Kidney_R,VH_F_renal_column_R,Inner Medullary Collecting Duct,6452128.963815269
+VH_F_Kidney_R,VH_F_renal_column_R,Lymphatic Endothelial,4359.873915033968
+VH_F_Kidney_R,VH_F_renal_column_R,M2 Macrophage,151626.72615618134
+VH_F_Kidney_R,VH_F_renal_column_R,Macula Densa,3875.4434800301947
+VH_F_Kidney_R,VH_F_renal_column_R,Medullary Fibroblast,700001.9785804538
+VH_F_Kidney_R,VH_F_renal_column_R,Medullary Thick Ascending Limb,5813.165220045292
+VH_F_Kidney_R,VH_F_renal_column_R,Mesangial,11626.330440090584
+VH_F_Kidney_R,VH_F_renal_column_R,Papillary Tip Epithelial,355087.50885776646
+VH_F_Kidney_R,VH_F_renal_column_R,Parietal Epithelial,14532.91305011323
+VH_F_Kidney_R,VH_F_renal_column_R,Peritubular Capilary Endothelial ,46505.321760362334
+VH_F_Kidney_R,VH_F_renal_column_R,Plasma,1453.291305011323
+VH_F_Kidney_R,VH_F_renal_column_R,Podocyte,4359.873915033968
+VH_F_Kidney_R,VH_F_renal_column_R,Proximal Tubule Epithelial Segment 1,1453.291305011323
+VH_F_Kidney_R,VH_F_renal_column_R,Proximal Tubule Epithelial Segment 3,4359.873915033968
+VH_F_Kidney_R,VH_F_renal_column_R,Renin-positive Juxtaglomerular Granular,1453.291305011323
+VH_F_Kidney_R,VH_F_renal_column_R,T,4359.873915033968
+VH_F_Kidney_R,VH_F_renal_column_R,Vascular Smooth Muscle / Pericyte,280000.79143218155
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,Ascending Thin Limb,29693.30852090582
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,Ascending Vasa Recta Endothelial,452.18236326252514
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,Connecting Tubule,194513.77993009624
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,Connecting Tubule Principal,1055.092180945892
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,Cortical Collecting Duct Principal,6481.280540096194
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,Cortical Thick Ascending Limb,17785.839621659325
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,Cortical Vascular Smooth Muscle / Pericyte,75.36372721042086
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,Descending Thin Limb Type 1,335142.4949047416
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,Descending Thin Limb Type 2,3240.640270048097
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,Descending Thin Limb Type 3,1658.0019986292589
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,Descending Vasa Recta Endothelial ,602.9098176833669
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,Distal Convoluted Tubule Type 1,7988.555084304611
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,Fibroblast,45821.14614393588
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,Inner Medullary Collecting Duct,260004.85887595196
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,M2 Macrophage,1281.1833625771546
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,Macula Densa,3165.276542837676
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,Medullary Fibroblast,10852.376718300604
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,Medullary Thick Ascending Limb,203934.24583139885
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,Outer Medullary Collecting Duct Intercalated Type A,452.18236326252514
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,Outer Medullary Collecting Duct Principal,452.18236326252514
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,Papillary Tip Epithelial,1808.7294530501006
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,Parietal Epithelial,376.8186360521043
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,Peritubular Capilary Endothelial ,452.18236326252514
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,Podocyte,75.36372721042086
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,Proximal Tubule Epithelial Segment 1,150.72745442084172
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,Proximal Tubule Epithelial Segment 3,2411.6392707334676
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,T,75.36372721042086
+VH_F_Kidney_R,VH_F_renal_pyramid_R_f,Vascular Smooth Muscle / Pericyte,301.45490884168345
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Afferent / Efferent Arteriole Endothelial,21.825495590402817
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Ascending Thin Limb,1047.623788339335
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Ascending Vasa Recta Endothelial,87.30198236161127
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Connecting Tubule,39438.67053185789
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Connecting Tubule Principal,65.47648677120844
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Cortical Collecting Duct Intercalated Type A,261.90594708483377
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Cortical Collecting Duct Principal,12440.532486529606
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Cortical Thick Ascending Limb,305.5569382656395
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Cortical Vascular Smooth Muscle / Pericyte,21.825495590402817
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Descending Thin Limb Type 1,7355.1920139657495
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Descending Thin Limb Type 2,218.25495590402818
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Descending Thin Limb Type 3,501.9863985792648
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Descending Vasa Recta Endothelial ,218.25495590402818
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Distal Convoluted Tubule Type 1,87.30198236161127
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Fibroblast,982.1473015681267
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Inner Medullary Collecting Duct,20799.697297653885
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Intercalated Type B,87.30198236161127
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,M2 Macrophage,43.65099118080563
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Macula Densa,109.12747795201409
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Medullary Fibroblast,6700.427146253664
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Medullary Thick Ascending Limb,120542.21214579477
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Mesangial,43.65099118080563
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Neutrophil,21.825495590402817
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Outer Medullary Collecting Duct Intercalated Type A,196.42946031362536
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Outer Medullary Collecting Duct Principal,87.30198236161127
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Papillary Tip Epithelial,1309.529735424169
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Parietal Epithelial,371.03342503684786
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Peritubular Capilary Endothelial ,21.825495590402817
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Proximal Tubule Epithelial Segment 3,218.25495590402818
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Renin-positive Juxtaglomerular Granular,21.825495590402817
+VH_F_Kidney_R,VH_F_renal_pyramid_R_i,Vascular Smooth Muscle / Pericyte,283.7314426752366
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,AT1,934624.0489049773
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,AT2,541268.7980047506
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,Alveolar fibroblasts,91541.77367177121
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,B cells,1995.461006469127
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,Basal resting,5861.666706503061
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,CD4 T cells,454715.67684915225
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,CD8 T cells,514330.0744174174
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,Classical monocytes,249.43262580864086
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,Club (nasal),374.1489387129613
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,Club (non-nasal),5113.368829077138
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,DC2,1247.1631290432042
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,EC aerocyte capillary,2244.8936322777677
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,EC arterial,38412.62437453069
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,EC general capillary,989873.3755215913
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,EC venous pulmonary,3242.624135512331
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,EC venous systemic,284602.62604765926
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,Goblet (nasal),124.71631290432043
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,Ionocyte,2369.6099451820883
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,Lymphatic EC mature,2369.6099451820883
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,Mast cells,3741.489387129613
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,Monocyte-derived Mφ,124.71631290432043
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,Multiciliated (non-nasal),113616.56105583592
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,Myofibroblasts,2244.8936322777677
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,Pericytes,30430.780348654185
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,Plasma cells,1621.3120677561656
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,Plasmacytoid DCs,124.71631290432043
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,SMG duct,748.2978774259226
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,Smooth muscle,48389.92940687633
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,Suprabasal,498.86525161728173
+VH_F_Lung,VH_F_right_anterior_bronchopulmonary_segm,Transitional Club-AT2,38163.191748722056
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,AT1,167911.95549997946
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,AT2,494890.5045584216
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,AT2 proliferating,5996.855553570695
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,Adventitial fibroblasts,17390.881105355016
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,Alveolar fibroblasts,47375.15887320849
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,Alveolar macrophages,3448.1919433031494
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,B cells,3598.113332142417
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,Basal resting,17690.723883033552
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,CD4 T cells,40029.01082008439
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,CD8 T cells,180205.50938479937
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,Classical monocytes,749.6069441963368
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,Club (non-nasal),2398.742221428278
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,DC2,4497.641665178021
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,EC aerocyte capillary,7046.305275445567
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,EC arterial,9445.047496873845
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,EC general capillary,209140.337430778
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,EC venous pulmonary,3148.3491656246147
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,EC venous systemic,52772.32887142211
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,Ionocyte,449.76416651780215
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,Lymphatic EC mature,8095.754997320439
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,Mast cells,1799.0566660712086
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,Monocyte-derived Mφ,4947.4058316958235
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,Multiciliated (non-nasal),27735.456935264465
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,Myofibroblasts,749.6069441963368
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,Non-classical monocytes,2548.663610267545
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,Peribronchial fibroblasts,1499.2138883926737
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,Pericytes,7346.148053124101
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,Plasma cells,149.92138883926737
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,Smooth muscle,20839.073048658163
+VH_F_Lung,VH_F_right_medial_bronchopulmonary_segment,Transitional Club-AT2,5247.248609374358
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,AT1,130594.60047056098
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,AT2,231929.125712133
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,AT2 proliferating,215.14761197785992
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,Adventitial fibroblasts,9036.199703070117
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,Alveolar fibroblasts,64759.43120533584
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,Alveolar macrophages,2259.049925767529
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,B cells,12693.709106693736
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,Basal resting,26785.87769124356
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,CD4 T cells,159101.65905762743
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,CD8 T cells,186425.40577881562
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,Classical monocytes,6346.854553346868
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,Club (nasal),753.0166419225097
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,Club (non-nasal),4410.526045546128
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,EC aerocyte capillary,645.4428359335798
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,EC arterial,13446.725748616245
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,EC general capillary,195784.32689985255
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,EC venous pulmonary,2043.9023137896695
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,EC venous systemic,38296.27493205907
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,Goblet (bronchial),107.57380598892996
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,Goblet (nasal),107.57380598892996
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,Ionocyte,537.8690299446498
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,Lymphatic EC mature,7852.887837191887
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,Mast cells,2689.345149723249
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,Multiciliated (non-nasal),43567.39142551664
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,Myofibroblasts,107.57380598892996
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,Non-classical monocytes,107.57380598892996
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,Peribronchial fibroblasts,215.14761197785992
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,Pericytes,12048.266270760156
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,Plasma cells,2259.049925767529
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,SMG duct,1721.1808958228794
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,SMG serous (bronchial),968.1642539003697
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,Smooth muscle,21945.056421741712
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,Suprabasal,1613.6070898339494
+VH_F_Lung,VH_F_right_posterior_bronchopulmonary_segment,Transitional Club-AT2,1936.3285078007393
+VH_F_Ureter_L,VH_F_left_ureter,Afferent / Efferent Arteriole Endothelial,38.30898727986176
+VH_F_Ureter_L,VH_F_left_ureter,Ascending Thin Limb,13.93054082904064
+VH_F_Ureter_L,VH_F_left_ureter,Ascending Vasa Recta Endothelial,100.99642101054464
+VH_F_Ureter_L,VH_F_left_ureter,Classical Dendritic,111.44432663232512
+VH_F_Ureter_L,VH_F_left_ureter,Connecting Tubule,15246.976937384981
+VH_F_Ureter_L,VH_F_left_ureter,Connecting Tubule Principal,38.30898727986176
+VH_F_Ureter_L,VH_F_left_ureter,Cortical Collecting Duct Intercalated Type A,3235.3681075446884
+VH_F_Ureter_L,VH_F_left_ureter,Cortical Collecting Duct Principal,10486.214609060342
+VH_F_Ureter_L,VH_F_left_ureter,Cortical Vascular Smooth Muscle / Pericyte,1804.0050373607628
+VH_F_Ureter_L,VH_F_left_ureter,Descending Thin Limb Type 1,25625.229855020258
+VH_F_Ureter_L,VH_F_left_ureter,Descending Thin Limb Type 2,449.25994173656056
+VH_F_Ureter_L,VH_F_left_ureter,Descending Thin Limb Type 3,306.4718982388941
+VH_F_Ureter_L,VH_F_left_ureter,Descending Vasa Recta Endothelial ,1619.4253713759745
+VH_F_Ureter_L,VH_F_left_ureter,Distal Convoluted Tubule Type 1,104.47905621780481
+VH_F_Ureter_L,VH_F_left_ureter,Fibroblast,20888.84597314644
+VH_F_Ureter_L,VH_F_left_ureter,Inner Medullary Collecting Duct,234962.94952822122
+VH_F_Ureter_L,VH_F_left_ureter,Intercalated Type B,863.6935314005196
+VH_F_Ureter_L,VH_F_left_ureter,Lymphatic Endothelial,13.93054082904064
+VH_F_Ureter_L,VH_F_left_ureter,M2 Macrophage,532.8431867108045
+VH_F_Ureter_L,VH_F_left_ureter,Mast,13.93054082904064
+VH_F_Ureter_L,VH_F_left_ureter,Medullary Fibroblast,19589.823040838397
+VH_F_Ureter_L,VH_F_left_ureter,Non-classical monocyte,41.79162248712192
+VH_F_Ureter_L,VH_F_left_ureter,Outer Medullary Collecting Duct Intercalated Type A,198.51020681382911
+VH_F_Ureter_L,VH_F_left_ureter,Papillary Tip Epithelial,35641.288711100475
+VH_F_Ureter_L,VH_F_left_ureter,Parietal Epithelial,1152.752253603113
+VH_F_Ureter_L,VH_F_left_ureter,Peritubular Capilary Endothelial ,3301.5381764826316
+VH_F_Ureter_L,VH_F_left_ureter,Renin-positive Juxtaglomerular Granular,13.93054082904064
+VH_F_Ureter_L,VH_F_left_ureter,T,13.93054082904064
+VH_F_Ureter_L,VH_F_left_ureter,Vascular Smooth Muscle / Pericyte,292.54135740985345
+VH_M_Heart,VH_M_heart_left_ventricle,Adipocyte,1957.5703697403628
+VH_M_Heart,VH_M_heart_left_ventricle,Arterial Endothelial,6612.630887430264
+VH_M_Heart,VH_M_heart_left_ventricle,Atrial Cardiomyocyte,536.8439695158966
+VH_M_Heart,VH_M_heart_left_ventricle,B,63350.80544538974
+VH_M_Heart,VH_M_heart_left_ventricle,B cell,312.9905072919958
+VH_M_Heart,VH_M_heart_left_ventricle,CD14-positive monocyte,573.9885477869758
+VH_M_Heart,VH_M_heart_left_ventricle,"CD14-positive, CD16-positive monocyte",1188.8253603244357
+VH_M_Heart,VH_M_heart_left_ventricle,"CD4-positive, alpha-beta cytotoxic T cell",2008.8149183430291
+VH_M_Heart,VH_M_heart_left_ventricle,"CD8-positive, alpha-beta cytotoxic T cell",1374.2582538570593
+VH_M_Heart,VH_M_heart_left_ventricle,Capillary Endothelial,23057.347958129198
+VH_M_Heart,VH_M_heart_left_ventricle,Endocardial,5593.632671135671
+VH_M_Heart,VH_M_heart_left_ventricle,Endothelial,105.35814233195872
+VH_M_Heart,VH_M_heart_left_ventricle,Fibroblast,640559.0073838538
+VH_M_Heart,VH_M_heart_left_ventricle,Lymphatic Endothelial,1730.768872506681
+VH_M_Heart,VH_M_heart_left_ventricle,Macrophage,20645.772463607223
+VH_M_Heart,VH_M_heart_left_ventricle,Mast,1554.6357948677573
+VH_M_Heart,VH_M_heart_left_ventricle,Mesothelial,8848.475434627555
+VH_M_Heart,VH_M_heart_left_ventricle,Monocyte/cDC,20412.93901165988
+VH_M_Heart,VH_M_heart_left_ventricle,NK,5535.323775570274
+VH_M_Heart,VH_M_heart_left_ventricle,Neuronal,1711.0644871087188
+VH_M_Heart,VH_M_heart_left_ventricle,Pericyte,23840.29567996249
+VH_M_Heart,VH_M_heart_left_ventricle,Smooth Muscle,5643.898960416186
+VH_M_Heart,VH_M_heart_left_ventricle,T,2990.241016719256
+VH_M_Heart,VH_M_heart_left_ventricle,Venous Endothelial,7063.016839383676
+VH_M_Heart,VH_M_heart_left_ventricle,Ventricular Cardiomycoyte,497377.2919547219
+VH_M_Heart,VH_M_heart_left_ventricle,"activated CD4-positive, alpha-beta T cell",590.4769954245951
+VH_M_Heart,VH_M_heart_left_ventricle,"activated CD8-positive, alpha-beta T cell",974.7655388581561
+VH_M_Heart,VH_M_heart_left_ventricle,capillary endothelial cell,35156.35319815301
+VH_M_Heart,VH_M_heart_left_ventricle,dendritic cell,428.2853559741433
+VH_M_Heart,VH_M_heart_left_ventricle,endothelial cell,3115.405181781348
+VH_M_Heart,VH_M_heart_left_ventricle,endothelial cell of artery,13982.576451044788
+VH_M_Heart,VH_M_heart_left_ventricle,endothelial cell of lymphatic vessel,351.2702198979262
+VH_M_Heart,VH_M_heart_left_ventricle,epicardial adipocyte,697.9419028918933
+VH_M_Heart,VH_M_heart_left_ventricle,fibroblast,21500.645721632885
+VH_M_Heart,VH_M_heart_left_ventricle,macrophage,6384.84063571513
+VH_M_Heart,VH_M_heart_left_ventricle,mast cell,774.5841846245461
+VH_M_Heart,VH_M_heart_left_ventricle,mature NK T cell,771.8084911780121
+VH_M_Heart,VH_M_heart_left_ventricle,mesothelial cell,23.40696712375614
+VH_M_Heart,VH_M_heart_left_ventricle,monocyte,700.5933115572391
+VH_M_Heart,VH_M_heart_left_ventricle,native cell,17571.299507850763
+VH_M_Heart,VH_M_heart_left_ventricle,natural killer cell,1594.4494578619515
+VH_M_Heart,VH_M_heart_left_ventricle,neural cell,1244.7949401194703
+VH_M_Heart,VH_M_heart_left_ventricle,pericyte,38172.289126723495
+VH_M_Heart,VH_M_heart_left_ventricle,regular ventricular cardiac myocyte,53958.03061150542
+VH_M_Heart,VH_M_heart_left_ventricle,smooth muscle cell,7715.889213979132
+VH_M_Heart,VH_M_heart_left_ventricle,vein endothelial cell,2994.3932331645487
+VH_M_Heart,VH_M_heart_right_ventricle,Adipocyte,545.6648424937082
+VH_M_Heart,VH_M_heart_right_ventricle,Arterial Endothelial,1082.0811283349808
+VH_M_Heart,VH_M_heart_right_ventricle,Atrial Cardiomyocyte,120.23123648166451
+VH_M_Heart,VH_M_heart_right_ventricle,B,20947.980817766933
+VH_M_Heart,VH_M_heart_right_ventricle,B cell,374.0225116793862
+VH_M_Heart,VH_M_heart_right_ventricle,CD14-positive monocyte,1000.6316546227735
+VH_M_Heart,VH_M_heart_right_ventricle,"CD14-positive, CD16-positive monocyte",1408.6562128184673
+VH_M_Heart,VH_M_heart_right_ventricle,"CD4-positive, alpha-beta cytotoxic T cell",2307.281727892317
+VH_M_Heart,VH_M_heart_right_ventricle,"CD8-positive, alpha-beta cytotoxic T cell",1466.9454354178522
+VH_M_Heart,VH_M_heart_right_ventricle,Capillary Endothelial,6779.1920262353915
+VH_M_Heart,VH_M_heart_right_ventricle,Endocardial,1710.9829807006106
+VH_M_Heart,VH_M_heart_right_ventricle,Fibroblast,363967.69849995576
+VH_M_Heart,VH_M_heart_right_ventricle,Lymphatic Endothelial,980.3470051581876
+VH_M_Heart,VH_M_heart_right_ventricle,Macrophage,5465.896981589517
+VH_M_Heart,VH_M_heart_right_ventricle,Mast,906.3585519387018
+VH_M_Heart,VH_M_heart_right_ventricle,Mesothelial,5752.602237815026
+VH_M_Heart,VH_M_heart_right_ventricle,Monocyte/cDC,6695.95501636347
+VH_M_Heart,VH_M_heart_right_ventricle,NK,2182.6593699748328
+VH_M_Heart,VH_M_heart_right_ventricle,Neuronal,231.21391631089332
+VH_M_Heart,VH_M_heart_right_ventricle,Pericyte,6085.550277302712
+VH_M_Heart,VH_M_heart_right_ventricle,Smooth Muscle,2635.8386459441836
+VH_M_Heart,VH_M_heart_right_ventricle,T,1193.0638081642094
+VH_M_Heart,VH_M_heart_right_ventricle,Venous Endothelial,471.6763892742223
+VH_M_Heart,VH_M_heart_right_ventricle,Ventricular Cardiomycoyte,29576.88417448947
+VH_M_Heart,VH_M_heart_right_ventricle,"activated CD4-positive, alpha-beta T cell",427.45429906215566
+VH_M_Heart,VH_M_heart_right_ventricle,"activated CD8-positive, alpha-beta T cell",1734.1043723316993
+VH_M_Heart,VH_M_heart_right_ventricle,capillary endothelial cell,34847.24024399891
+VH_M_Heart,VH_M_heart_right_ventricle,dendritic cell,519.7455681778483
+VH_M_Heart,VH_M_heart_right_ventricle,endothelial cell,4250.255814538479
+VH_M_Heart,VH_M_heart_right_ventricle,endothelial cell of artery,10555.206725705275
+VH_M_Heart,VH_M_heart_right_ventricle,endothelial cell of lymphatic vessel,276.87380734707807
+VH_M_Heart,VH_M_heart_right_ventricle,epicardial adipocyte,1180.3567576375433
+VH_M_Heart,VH_M_heart_right_ventricle,fibroblast,22038.18357778409
+VH_M_Heart,VH_M_heart_right_ventricle,macrophage,5450.042313042484
+VH_M_Heart,VH_M_heart_right_ventricle,mast cell,592.6070964270793
+VH_M_Heart,VH_M_heart_right_ventricle,mature NK T cell,597.4645316436948
+VH_M_Heart,VH_M_heart_right_ventricle,mesothelial cell,82.57639868246189
+VH_M_Heart,VH_M_heart_right_ventricle,monocyte,1049.2060067889274
+VH_M_Heart,VH_M_heart_right_ventricle,native cell,19415.168560811773
+VH_M_Heart,VH_M_heart_right_ventricle,natural killer cell,1549.5218341003142
+VH_M_Heart,VH_M_heart_right_ventricle,neural cell,1452.373129768006
+VH_M_Heart,VH_M_heart_right_ventricle,pericyte,33676.5983567946
+VH_M_Heart,VH_M_heart_right_ventricle,regular ventricular cardiac myocyte,61077.390413722096
+VH_M_Heart,VH_M_heart_right_ventricle,smooth muscle cell,7441.5907518548
+VH_M_Heart,VH_M_heart_right_ventricle,vein endothelial cell,3385.6323459809373
+VH_M_Heart,VH_M_right_cardiac_atrium,Adipocyte,220.85324573286232
+VH_M_Heart,VH_M_right_cardiac_atrium,B cell,791.2923777594533
+VH_M_Heart,VH_M_right_cardiac_atrium,CD14-positive monocyte,633.8212578073233
+VH_M_Heart,VH_M_right_cardiac_atrium,"CD14-positive, CD16-positive monocyte",505.8759728462177
+VH_M_Heart,VH_M_right_cardiac_atrium,"CD4-positive, alpha-beta cytotoxic T cell",559.0224758300616
+VH_M_Heart,VH_M_right_cardiac_atrium,"CD8-positive, alpha-beta cytotoxic T cell",944.8267197127801
+VH_M_Heart,VH_M_right_cardiac_atrium,Endothelial cell,9410.080450539408
+VH_M_Heart,VH_M_right_cardiac_atrium,Fibroblast,12151.258971106112
+VH_M_Heart,VH_M_right_cardiac_atrium,Glia,411.39330087493965
+VH_M_Heart,VH_M_right_cardiac_atrium,Immune (lymphocyte),1316.4585627998067
+VH_M_Heart,VH_M_right_cardiac_atrium,Immune (myeloid),14979.046607646485
+VH_M_Heart,VH_M_right_cardiac_atrium,Muscle,13766.518984015085
+VH_M_Heart,VH_M_right_cardiac_atrium,"activated CD4-positive, alpha-beta T cell",226.3647349311869
+VH_M_Heart,VH_M_right_cardiac_atrium,"activated CD8-positive, alpha-beta T cell",978.2893327026077
+VH_M_Heart,VH_M_right_cardiac_atrium,capillary endothelial cell,1970.3573884010268
+VH_M_Heart,VH_M_right_cardiac_atrium,dendritic cell,159.43950895153165
+VH_M_Heart,VH_M_right_cardiac_atrium,endothelial cell,4395.412635663829
+VH_M_Heart,VH_M_right_cardiac_atrium,endothelial cell of artery,2102.2394513609356
+VH_M_Heart,VH_M_right_cardiac_atrium,endothelial cell of lymphatic vessel,13.778722995811377
+VH_M_Heart,VH_M_right_cardiac_atrium,epicardial adipocyte,362.18357588989903
+VH_M_Heart,VH_M_right_cardiac_atrium,fibroblast,11733.566825433087
+VH_M_Heart,VH_M_right_cardiac_atrium,macrophage,2332.540964290926
+VH_M_Heart,VH_M_right_cardiac_atrium,mast cell,68.89361497905688
+VH_M_Heart,VH_M_right_cardiac_atrium,mature NK T cell,244.08023592580153
+VH_M_Heart,VH_M_right_cardiac_atrium,mesothelial cell,303.1319059078503
+VH_M_Heart,VH_M_right_cardiac_atrium,monocyte,395.64618887972665
+VH_M_Heart,VH_M_right_cardiac_atrium,native cell,3535.226642925319
+VH_M_Heart,VH_M_right_cardiac_atrium,natural killer cell,696.8097057881753
+VH_M_Heart,VH_M_right_cardiac_atrium,neural cell,852.3124367409036
+VH_M_Heart,VH_M_right_cardiac_atrium,pericyte,3631.6777038959985
+VH_M_Heart,VH_M_right_cardiac_atrium,regular atrial cardiac myocyte,10747.403936732873
+VH_M_Heart,VH_M_right_cardiac_atrium,smooth muscle cell,1586.52153351771
+VH_M_Heart,VH_M_right_cardiac_atrium,vein endothelial cell,2104.2078403603373
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Afferent / Efferent Arteriole Endothelial,6244.651073980302
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Ascending Thin Limb,22480.743866329085
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Ascending Vasa Recta Endothelial,6244.651073980302
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,B,11240.371933164542
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Connecting Tubule,6107893.215460133
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Connecting Tubule Principal,144875.90491634302
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Cortical Collecting Duct Intercalated Type A,1140897.751216201
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Cortical Collecting Duct Principal,503318.8765628123
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Cortical Thick Ascending Limb,940444.4517414334
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Cortical Vascular Smooth Muscle / Pericyte,31847.72047729954
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Descending Thin Limb Type 1,748109.1986628402
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Descending Thin Limb Type 2,936073.1959896472
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Descending Thin Limb Type 3,16860.557899746815
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Descending Vasa Recta Endothelial ,2497.8604295921205
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Distal Convoluted Tubule Type 1,3621273.157801177
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Distal Convoluted Tubule Type 2,35594.51112168772
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Fibroblast,148622.69556073117
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Glomerular Capillary Endothelial,57450.78988061877
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Inner Medullary Collecting Duct,4452436.215747955
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Intercalated Type B,47459.34816225029
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Lymphatic Endothelial,7493.581288776362
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,M2 Macrophage,77433.67331735573
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Macula Densa,224807.43866329087
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Medullary Fibroblast,13738.232362756664
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Medullary Thick Ascending Limb,1411291.1427195482
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Mesangial,2497.8604295921205
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Monocyte-derived,19982.883436736964
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Neutrophil,4995.720859184241
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Outer Medullary Collecting Duct Intercalated Type A,104910.13804286906
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Outer Medullary Collecting Duct Principal,29349.860047707418
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Parietal Epithelial,14987.162577552723
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Peritubular Capilary Endothelial ,274764.64725513326
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Plasma,24978.604295921206
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Podocyte,70564.5571359774
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Proximal Tubule Epithelial Segment 1,3560075.57727617
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Proximal Tubule Epithelial Segment 2,8742.511503572423
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Proximal Tubule Epithelial Segment 3,506441.20209980244
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,T,203575.62501175783
+VH_M_Kidney_L,VH_M_outer_cortex_of_kidney_L,Vascular Smooth Muscle / Pericyte,26227.534510717265
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Afferent / Efferent Arteriole Endothelial,48143.07192269785
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Ascending Thin Limb,1438083.4317035896
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Ascending Vasa Recta Endothelial,93334.45444632966
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,B,72061.93429443991
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Classical Dendritic,19949.349041963593
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Connecting Tubule,11592811.006028414
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Connecting Tubule Principal,53741.103541616205
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Cortical Collecting Duct Intercalated Type A,1851421.7299659066
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Cortical Collecting Duct Principal,1031259.2065978324
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Cortical Thick Ascending Limb,1561647.2568920786
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Cortical Vascular Smooth Muscle / Pericyte,8142.591445699425
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Descending Thin Limb Type 1,10373050.80746264
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Descending Thin Limb Type 2,6093202.961209952
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Descending Thin Limb Type 3,441735.5859291938
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Descending Vasa Recta Endothelial ,93334.45444632966
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Distal Convoluted Tubule Type 1,5303676.938156321
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Distal Convoluted Tubule Type 2,6921.202728844511
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Fibroblast,677667.1730683347
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Glomerular Capillary Endothelial,25343.81587473946
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Inner Medullary Collecting Duct,17047125.885930177
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Intercalated Type B,422804.06081794266
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Lymphatic Endothelial,23308.168013314604
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,M2 Macrophage,166210.64788533954
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Macula Densa,234811.98081535718
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Mast,50687.631749478925
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Medullary Fibroblast,326416.13457947574
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Medullary Thick Ascending Limb,5170850.915198348
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Mesangial,97405.75016917936
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Monocyte-derived,1017.8239307124281
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Non-classical monocyte,4681.990081277169
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Outer Medullary Collecting Duct Intercalated Type A,236847.62867678204
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Outer Medullary Collecting Duct Principal,1587499.984732174
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Parietal Epithelial,1025457.6101927714
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Peritubular Capilary Endothelial ,732222.5357545208
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Podocyte,108296.46622780235
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Proximal Tubule Epithelial Segment 1,1839411.4075835
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Proximal Tubule Epithelial Segment 2,38270.1797947873
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Proximal Tubule Epithelial Segment 3,759194.8699184001
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Renin-positive Juxtaglomerular Granular,5801.596405060841
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,T,93741.58401861465
+VH_M_Kidney_R,VH_M_outer_cortex_of_kidney_R,Vascular Smooth Muscle / Pericyte,149620.11781472695
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Afferent / Efferent Arteriole Endothelial,222.7377704126788
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Ascending Thin Limb,556.844426031697
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Ascending Vasa Recta Endothelial,1169.3732946665637
+VH_M_Kidney_R,VH_M_renal_pyramid_a,B,111.3688852063394
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Connecting Tubule,5791.182030729648
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Connecting Tubule Principal,556.844426031697
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Cortical Collecting Duct Intercalated Type A,2116.0088189204484
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Cortical Collecting Duct Principal,13642.688437776576
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Cortical Thick Ascending Limb,70162.39767999382
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Cortical Vascular Smooth Muscle / Pericyte,111.3688852063394
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Descending Thin Limb Type 1,124510.41366068745
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Descending Thin Limb Type 2,3786.5420970155396
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Descending Thin Limb Type 3,334.10665561901817
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Descending Vasa Recta Endothelial ,1225.0577372697335
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Distal Convoluted Tubule Type 1,3897.910982221879
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Fibroblast,111.3688852063394
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Glomerular Capillary Endothelial,501.1599834285273
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Inner Medullary Collecting Duct,119443.12938379901
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Intercalated Type B,334.10665561901817
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Macula Densa,2060.324376317279
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Medullary Fibroblast,445.4755408253576
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Medullary Thick Ascending Limb,79628.75292253267
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Non-classical monocyte,111.3688852063394
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Outer Medullary Collecting Duct Intercalated Type A,1837.5866059046
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Outer Medullary Collecting Duct Principal,1002.3199668570546
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Parietal Epithelial,111.3688852063394
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Peritubular Capilary Endothelial ,2227.377704126788
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Podocyte,3118.328785777503
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Proximal Tubule Epithelial Segment 1,5846.866473332819
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Proximal Tubule Epithelial Segment 2,445.4755408253576
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Proximal Tubule Epithelial Segment 3,2394.431031936297
+VH_M_Kidney_R,VH_M_renal_pyramid_a,Vascular Smooth Muscle / Pericyte,222.7377704126788
+VH_M_Lung,VH_M_left_anterior_bronchopulmonary_segment,AT1,1369101.961745322
+VH_M_Lung,VH_M_left_anterior_bronchopulmonary_segment,AT2,390473.920952024
+VH_M_Lung,VH_M_left_anterior_bronchopulmonary_segment,Adventitial fibroblasts,2221.125830216291
+VH_M_Lung,VH_M_left_anterior_bronchopulmonary_segment,Alveolar fibroblasts,47087.86760058537
+VH_M_Lung,VH_M_left_anterior_bronchopulmonary_segment,B cells,35538.013283460656
+VH_M_Lung,VH_M_left_anterior_bronchopulmonary_segment,Basal resting,4442.251660432582
+VH_M_Lung,VH_M_left_anterior_bronchopulmonary_segment,CD4 T cells,286525.2320979016
+VH_M_Lung,VH_M_left_anterior_bronchopulmonary_segment,CD8 T cells,844472.040648234
+VH_M_Lung,VH_M_left_anterior_bronchopulmonary_segment,Classical monocytes,5774.927158562357
+VH_M_Lung,VH_M_left_anterior_bronchopulmonary_segment,Club (non-nasal),3553.801328346066
+VH_M_Lung,VH_M_left_anterior_bronchopulmonary_segment,DC2,888.4503320865165
+VH_M_Lung,VH_M_left_anterior_bronchopulmonary_segment,EC aerocyte capillary,3998.026494389324
+VH_M_Lung,VH_M_left_anterior_bronchopulmonary_segment,EC arterial,258094.82147113304
+VH_M_Lung,VH_M_left_anterior_bronchopulmonary_segment,EC general capillary,752517.4312772795
+VH_M_Lung,VH_M_left_anterior_bronchopulmonary_segment,EC venous systemic,704985.3385106508
+VH_M_Lung,VH_M_left_anterior_bronchopulmonary_segment,Lymphatic EC mature,12438.30464921123
+VH_M_Lung,VH_M_left_anterior_bronchopulmonary_segment,Mast cells,16436.331143600553
+VH_M_Lung,VH_M_left_anterior_bronchopulmonary_segment,Multiciliated (non-nasal),44422.51660432582
+VH_M_Lung,VH_M_left_anterior_bronchopulmonary_segment,Myofibroblasts,20434.35763798988
+VH_M_Lung,VH_M_left_anterior_bronchopulmonary_segment,NK cells,18657.456973816847
+VH_M_Lung,VH_M_left_anterior_bronchopulmonary_segment,Pericytes,37314.91394763369
+VH_M_Lung,VH_M_left_anterior_bronchopulmonary_segment,Plasma cells,4442.251660432582
+VH_M_Lung,VH_M_left_anterior_bronchopulmonary_segment,SMG serous (bronchial),444.22516604325824
+VH_M_Lung,VH_M_left_anterior_bronchopulmonary_segment,Smooth muscle,16436.331143600553
+VH_M_Lung,VH_M_left_anterior_bronchopulmonary_segment,Transitional Club-AT2,3553.801328346066
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,AT1,110952.82744896687
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,AT2,89565.38234668765
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,Adventitial fibroblasts,4015.6019375707915
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,Alveolar fibroblasts,37275.26146397235
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,B cells,7332.838320781445
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,CD4 T cells,199383.3657698193
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,CD8 T cells,44258.91700757372
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,Classical monocytes,2444.279440260482
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,Club (non-nasal),261.8870828850516
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,DC2,1047.5483315402064
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,EC aerocyte capillary,1571.3224973103097
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,EC arterial,257696.88955889078
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,EC general capillary,317669.03153956763
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,EC venous pulmonary,8642.273735206703
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,EC venous systemic,80137.4473628258
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,Endothelial cell,86815.56797639461
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,Epithelial cell,644023.9846614894
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,Fibroblast,32823.18105492647
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,Immune (lymphocyte),13574.480462875175
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,Immune (myeloid),180789.38288498062
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,Ionocyte,87.2956942950172
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,Lymphatic EC mature,7507.4297093714795
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,Mast cells,7507.4297093714795
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,Multiciliated (non-nasal),3666.4191603907225
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,Muscle,3273.588536063145
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,Myofibroblasts,4364.78471475086
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,NK cells,698.3655543601376
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,Pericytes,24966.56856837492
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,Plasma cells,2007.8009687853958
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,Smooth muscle,7507.4297093714795
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,Suprabasal,349.1827771800688
+VH_M_Lung,VH_M_left_apical_bronchopulmonary_segment,Transitional Club-AT2,1134.8440258352236
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,AT1,249178.16846117008
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,AT2,155435.1244269388
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,AT2 proliferating,1927.877512272109
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,Adventitial fibroblasts,6265.601914884354
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,Alveolar fibroblasts,81452.82489349661
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,Alveolar macrophages,722.9540671020409
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,B cells,36388.688044136055
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,Basal resting,4337.724402612245
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,CD4 T cells,371839.37517948303
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,CD8 T cells,356657.3397703402
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,Classical monocytes,20724.68325692517
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,Club (non-nasal),16386.958854312925
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,DC2,722.9540671020409
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,EC aerocyte capillary,2650.83157937415
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,EC arterial,262191.3416690068
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,EC general capillary,393287.0125035102
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,EC venous pulmonary,240.98468903401363
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,EC venous systemic,207487.81725828574
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,Ionocyte,1686.8928232380954
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,Lymphatic EC mature,5783.632536816327
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,Mast cells,10844.311006530614
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,Monocyte-derived Mφ,481.96937806802725
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,Multiciliated (non-nasal),123866.130163483
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,Myofibroblasts,481.96937806802725
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,NK cells,481.96937806802725
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,Peribronchial fibroblasts,240.98468903401363
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,Pericytes,28195.208616979595
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,Plasma cells,8193.479427156462
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,Smooth muscle,36388.688044136055
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,T cells proliferating,240.98468903401363
+VH_M_Lung,VH_M_left_posterior_bronchopulmonary_segment,Transitional Club-AT2,25062.407659537417
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,AT1,779272.4312716388
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,AT2,670891.3369170957
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,AT2 proliferating,1030.2385394918547
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,Adventitial fibroblasts,6593.52665274787
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,Alveolar fibroblasts,153093.4469684896
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,B cells,27816.44056628007
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,Basal resting,3914.9064500690474
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,CD4 T cells,473497.6327504564
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,CD8 T cells,849740.7473728816
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,Classical monocytes,5151.192697459273
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,Club (non-nasal),5769.3358211543855
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,DC2,206.04770789837093
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,EC aerocyte capillary,61814.312369511266
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,EC arterial,72528.79318022657
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,EC general capillary,2088911.6626736845
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,EC venous pulmonary,40179.30304018233
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,EC venous systemic,384897.11835415685
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,Ionocyte,412.09541579674186
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,Lymphatic EC mature,21635.009329328946
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,Mast cells,45536.54344553997
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,Monocyte-derived Mφ,206.04770789837093
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,Multiciliated (non-nasal),83861.41711463696
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,Myofibroblasts,10714.480810715288
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,NK cells,412.09541579674186
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,Pericytes,69644.12526964938
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,Plasma cells,7211.669776442982
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,Smooth muscle,76443.69963029561
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,T cells proliferating,206.04770789837093
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,Transitional Club-AT2,33173.68097163772
+VH_M_Lung,VH_M_right_anterior_bronchopulmonary_segment,Tuft,206.04770789837093
+VH_M_Lung,VH_M_right_lateral_bronchopulmonary_segment,AT1,678876.6356649032
+VH_M_Lung,VH_M_right_lateral_bronchopulmonary_segment,AT2,193918.349996147
+VH_M_Lung,VH_M_right_lateral_bronchopulmonary_segment,Adventitial fibroblasts,1299.2854271098627
+VH_M_Lung,VH_M_right_lateral_bronchopulmonary_segment,Alveolar fibroblasts,22087.852260867665
+VH_M_Lung,VH_M_right_lateral_bronchopulmonary_segment,B cells,31182.850250636704
+VH_M_Lung,VH_M_right_lateral_bronchopulmonary_segment,Basal resting,1299.2854271098627
+VH_M_Lung,VH_M_right_lateral_bronchopulmonary_segment,CD4 T cells,135775.32713298066
+VH_M_Lung,VH_M_right_lateral_bronchopulmonary_segment,CD8 T cells,44500.525878512795
+VH_M_Lung,VH_M_right_lateral_bronchopulmonary_segment,Classical monocytes,1624.1067838873282
+VH_M_Lung,VH_M_right_lateral_bronchopulmonary_segment,Club (non-nasal),5197.141708439451
+VH_M_Lung,VH_M_right_lateral_bronchopulmonary_segment,DC2,324.82135677746567
+VH_M_Lung,VH_M_right_lateral_bronchopulmonary_segment,EC aerocyte capillary,11368.747487211298
+VH_M_Lung,VH_M_right_lateral_bronchopulmonary_segment,EC arterial,20463.745476980337
+VH_M_Lung,VH_M_right_lateral_bronchopulmonary_segment,EC general capillary,318000.1082851389
+VH_M_Lung,VH_M_right_lateral_bronchopulmonary_segment,EC venous pulmonary,3573.0349245521224
+VH_M_Lung,VH_M_right_lateral_bronchopulmonary_segment,EC venous systemic,25011.244471864855
+VH_M_Lung,VH_M_right_lateral_bronchopulmonary_segment,Lymphatic EC mature,3573.0349245521224
+VH_M_Lung,VH_M_right_lateral_bronchopulmonary_segment,Mast cells,2923.392210997191
+VH_M_Lung,VH_M_right_lateral_bronchopulmonary_segment,Multiciliated (non-nasal),21113.38819053527
+VH_M_Lung,VH_M_right_lateral_bronchopulmonary_segment,Pericytes,16890.710552428216
+VH_M_Lung,VH_M_right_lateral_bronchopulmonary_segment,Plasma cells,9419.819346546505
+VH_M_Lung,VH_M_right_lateral_bronchopulmonary_segment,Smooth muscle,13317.675627876093
+VH_M_Lung,VH_M_right_lateral_bronchopulmonary_segment,Transitional Club-AT2,15591.425125318352
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,AT1,427366.8953732012
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,AT2,718471.882076686
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,AT2 proliferating,4507.313360586927
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,Adventitial fibroblasts,14763.750905595953
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,Alveolar fibroblasts,81223.62647751541
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,Alveolar macrophages,22229.94684643212
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,B cells,38710.769508442136
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,Basal resting,3372.819521527632
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,CD4 T cells,641970.2029293093
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,CD8 T cells,148358.06595374044
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,Classical monocytes,11130.304421041186
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,Club (nasal),275.9579608522608
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,Club (non-nasal),5488.497221394964
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,DC2,1318.4658129608015
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,EC aerocyte capillary,16695.456631561778
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,EC arterial,45671.04252104917
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,EC general capillary,614727.0197940612
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,EC venous pulmonary,5825.779173547728
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,EC venous systemic,69280.77917174259
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,Goblet (nasal),91.9859869507536
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,Interstitial Mφ perivascular,45.9929934753768
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,Ionocyte,858.5358782070336
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,Lymphatic EC mature,16526.8156554854
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,Mast cells,8248.076829917572
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,Monocyte-derived Mφ,4093.376419308535
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,Multiciliated (non-nasal),44567.21067764012
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,Myofibroblasts,1655.7477651135646
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,NK cells,2882.227591123613
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,Non-classical monocytes,4369.334380160796
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,Peribronchial fibroblasts,1011.8458564582895
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,Pericytes,43064.77289077781
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,Plasma cells,15315.666827300476
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,Plasmacytoid DCs,306.619956502512
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,SMG serous (bronchial),183.9719739015072
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,Smooth muscle,33467.568252249184
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,T cells proliferating,275.9579608522608
+VH_M_Lung,VH_M_right_medial_bronchopulmonary_segment,Transitional Club-AT2,34326.10413045622
+VH_M_Skin,VH_M_skin,Adipocyte,6681.047400445191
+VH_M_Skin,VH_M_skin,"CD68 
+/ Macrophage",116793.08210505277
+VH_M_Skin,VH_M_skin,Endothelial cell,353040.61000247224
+VH_M_Skin,VH_M_skin,Epithelial cell,176520.30500123612
+VH_M_Skin,VH_M_skin,Epithelial cell (keratinocyte),678653.7622557484
+VH_M_Skin,VH_M_skin,Fibroblast,181443.1820331431
+VH_M_Skin,VH_M_skin,Immune (lymphocyte),26372.555528073124
+VH_M_Skin,VH_M_skin,Immune (myeloid),62239.23104625257
+VH_M_Skin,VH_M_skin,Melanocyte,56964.719940637944
+VH_M_Skin,VH_M_skin,Muscle,63294.133267375495
+VH_M_Skin,VH_M_skin,Other,139247.09318822608
+VH_M_Skin,VH_M_skin,T-Killer,42797.399868228575
+VH_M_Skin,VH_M_skin,T-helper,1094671.4058957861
+VH_M_Skin,VH_M_skin,T-reg,153208.16811499232
+VH_M_Ureter_L,VH_M_ureter_L,Afferent / Efferent Arteriole Endothelial,579.4936680836705
+VH_M_Ureter_L,VH_M_ureter_L,Ascending Thin Limb,158.04372765918285
+VH_M_Ureter_L,VH_M_ureter_L,Ascending Vasa Recta Endothelial,105.36248510612191
+VH_M_Ureter_L,VH_M_ureter_L,B,52.681242553060954
+VH_M_Ureter_L,VH_M_ureter_L,Connecting Tubule,176166.07509743582
+VH_M_Ureter_L,VH_M_ureter_L,Connecting Tubule Principal,131.70310638265238
+VH_M_Ureter_L,VH_M_ureter_L,Cortical Collecting Duct Intercalated Type A,105.36248510612191
+VH_M_Ureter_L,VH_M_ureter_L,Cortical Collecting Duct Principal,3081.8526893540657
+VH_M_Ureter_L,VH_M_ureter_L,Cortical Vascular Smooth Muscle / Pericyte,11747.917089332594
+VH_M_Ureter_L,VH_M_ureter_L,Descending Thin Limb Type 1,194130.3788080296
+VH_M_Ureter_L,VH_M_ureter_L,Descending Thin Limb Type 2,52.681242553060954
+VH_M_Ureter_L,VH_M_ureter_L,Descending Thin Limb Type 3,158.04372765918285
+VH_M_Ureter_L,VH_M_ureter_L,Descending Vasa Recta Endothelial ,1158.9873361673408
+VH_M_Ureter_L,VH_M_ureter_L,Fibroblast,56922.082578582354
+VH_M_Ureter_L,VH_M_ureter_L,Inner Medullary Collecting Duct,963223.8388401663
+VH_M_Ureter_L,VH_M_ureter_L,Intercalated Type B,52.681242553060954
+VH_M_Ureter_L,VH_M_ureter_L,Lymphatic Endothelial,711.196774466323
+VH_M_Ureter_L,VH_M_ureter_L,M2 Macrophage,10114.798570187702
+VH_M_Ureter_L,VH_M_ureter_L,Macula Densa,52.681242553060954
+VH_M_Ureter_L,VH_M_ureter_L,Medullary Fibroblast,69170.47147216903
+VH_M_Ureter_L,VH_M_ureter_L,Mesangial,52.681242553060954
+VH_M_Ureter_L,VH_M_ureter_L,Monocyte-derived,105.36248510612191
+VH_M_Ureter_L,VH_M_ureter_L,Non-classical monocyte,158.04372765918285
+VH_M_Ureter_L,VH_M_ureter_L,Outer Medullary Collecting Duct Principal,7059.286502110167
+VH_M_Ureter_L,VH_M_ureter_L,Papillary Tip Epithelial,71857.21484237514
+VH_M_Ureter_L,VH_M_ureter_L,Parietal Epithelial,368.76869787142664
+VH_M_Ureter_L,VH_M_ureter_L,Peritubular Capilary Endothelial ,921.9217446785666
+VH_M_Ureter_L,VH_M_ureter_L,Podocyte,158.04372765918285
+VH_M_Ureter_L,VH_M_ureter_L,Proximal Tubule Epithelial Segment 1,52.681242553060954
+VH_M_Ureter_L,VH_M_ureter_L,Proximal Tubule Epithelial Segment 3,52.681242553060954
+VH_M_Ureter_L,VH_M_ureter_L,Schwann / Neural,158.04372765918285
+VH_M_Ureter_L,VH_M_ureter_L,Vascular Smooth Muscle / Pericyte,15409.263446770328
