@@ -1,0 +1,25 @@
+dataset_name,donor_id,tissue,tissue_ontology_term_id,cell_type,cell_type_ontology_id,sex,development_stage,race,count
+All — Cells of the adult human heart,H2,heart right ventricle,UBERON:0002080,native cell,CL:0000003,male,sixth decade human stage,European,605
+All — Cells of the adult human heart,H2,heart right ventricle,UBERON:0002080,fibroblast,CL:0000057,male,sixth decade human stage,European,661
+All — Cells of the adult human heart,H2,heart right ventricle,UBERON:0002080,mast cell,CL:0000097,male,sixth decade human stage,European,39
+All — Cells of the adult human heart,H2,heart right ventricle,UBERON:0002080,endothelial cell,CL:0000115,male,sixth decade human stage,European,64
+All — Cells of the adult human heart,H2,heart right ventricle,UBERON:0002080,smooth muscle cell,CL:0000192,male,sixth decade human stage,European,128
+All — Cells of the adult human heart,H2,heart right ventricle,UBERON:0002080,macrophage,CL:0000235,male,sixth decade human stage,European,77
+All — Cells of the adult human heart,H2,heart right ventricle,UBERON:0002080,B cell,CL:0000236,male,sixth decade human stage,European,6
+All — Cells of the adult human heart,H2,heart right ventricle,UBERON:0002080,dendritic cell,CL:0000451,male,sixth decade human stage,European,7
+All — Cells of the adult human heart,H2,heart right ventricle,UBERON:0002080,monocyte,CL:0000576,male,sixth decade human stage,European,9
+All — Cells of the adult human heart,H2,heart right ventricle,UBERON:0002080,natural killer cell,CL:0000623,male,sixth decade human stage,European,19
+All — Cells of the adult human heart,H2,heart right ventricle,UBERON:0002080,pericyte,CL:0000669,male,sixth decade human stage,European,1026
+All — Cells of the adult human heart,H2,heart right ventricle,UBERON:0002080,"CD8-positive, alpha-beta cytotoxic T cell",CL:0000794,male,sixth decade human stage,European,31
+All — Cells of the adult human heart,H2,heart right ventricle,UBERON:0002080,mature NK T cell,CL:0000814,male,sixth decade human stage,European,9
+All — Cells of the adult human heart,H2,heart right ventricle,UBERON:0002080,"activated CD4-positive, alpha-beta T cell",CL:0000896,male,sixth decade human stage,European,2
+All — Cells of the adult human heart,H2,heart right ventricle,UBERON:0002080,"activated CD8-positive, alpha-beta T cell",CL:0000906,male,sixth decade human stage,European,159
+All — Cells of the adult human heart,H2,heart right ventricle,UBERON:0002080,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,male,sixth decade human stage,European,179
+All — Cells of the adult human heart,H2,heart right ventricle,UBERON:0002080,CD14-positive monocyte,CL:0001054,male,sixth decade human stage,European,1
+All — Cells of the adult human heart,H2,heart right ventricle,UBERON:0002080,regular ventricular cardiac myocyte,CL:0002131,male,sixth decade human stage,European,2130
+All — Cells of the adult human heart,H2,heart right ventricle,UBERON:0002080,endothelial cell of lymphatic vessel,CL:0002138,male,sixth decade human stage,European,7
+All — Cells of the adult human heart,H2,heart right ventricle,UBERON:0002080,capillary endothelial cell,CL:0002144,male,sixth decade human stage,European,190
+All — Cells of the adult human heart,H2,heart right ventricle,UBERON:0002080,neural cell,CL:0002319,male,sixth decade human stage,European,47
+All — Cells of the adult human heart,H2,heart right ventricle,UBERON:0002080,vein endothelial cell,CL:0002543,male,sixth decade human stage,European,33
+All — Cells of the adult human heart,H2,heart right ventricle,UBERON:0002080,epicardial adipocyte,CL:1000309,male,sixth decade human stage,European,110
+All — Cells of the adult human heart,H2,heart right ventricle,UBERON:0002080,endothelial cell of artery,CL:1000413,male,sixth decade human stage,European,39

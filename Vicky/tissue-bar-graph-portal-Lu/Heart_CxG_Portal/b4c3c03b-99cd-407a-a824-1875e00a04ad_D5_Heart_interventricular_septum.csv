@@ -1,0 +1,21 @@
+dataset_name,donor_id,tissue,tissue_ontology_term_id,cell_type,cell_type_ontology_id,sex,development_stage,race,count
+All — Cells of the adult human heart,D5,interventricular septum,UBERON:0002094,native cell,CL:0000003,female,eighth decade human stage,European,295
+All — Cells of the adult human heart,D5,interventricular septum,UBERON:0002094,fibroblast,CL:0000057,female,eighth decade human stage,European,1174
+All — Cells of the adult human heart,D5,interventricular septum,UBERON:0002094,endothelial cell,CL:0000115,female,eighth decade human stage,European,39
+All — Cells of the adult human heart,D5,interventricular septum,UBERON:0002094,smooth muscle cell,CL:0000192,female,eighth decade human stage,European,53
+All — Cells of the adult human heart,D5,interventricular septum,UBERON:0002094,macrophage,CL:0000235,female,eighth decade human stage,European,196
+All — Cells of the adult human heart,D5,interventricular septum,UBERON:0002094,B cell,CL:0000236,female,eighth decade human stage,European,2
+All — Cells of the adult human heart,D5,interventricular septum,UBERON:0002094,monocyte,CL:0000576,female,eighth decade human stage,European,3
+All — Cells of the adult human heart,D5,interventricular septum,UBERON:0002094,natural killer cell,CL:0000623,female,eighth decade human stage,European,1
+All — Cells of the adult human heart,D5,interventricular septum,UBERON:0002094,pericyte,CL:0000669,female,eighth decade human stage,European,430
+All — Cells of the adult human heart,D5,interventricular septum,UBERON:0002094,mature NK T cell,CL:0000814,female,eighth decade human stage,European,3
+All — Cells of the adult human heart,D5,interventricular septum,UBERON:0002094,"activated CD8-positive, alpha-beta T cell",CL:0000906,female,eighth decade human stage,European,6
+All — Cells of the adult human heart,D5,interventricular septum,UBERON:0002094,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,female,eighth decade human stage,European,6
+All — Cells of the adult human heart,D5,interventricular septum,UBERON:0002094,regular ventricular cardiac myocyte,CL:0002131,female,eighth decade human stage,European,983
+All — Cells of the adult human heart,D5,interventricular septum,UBERON:0002094,endothelial cell of lymphatic vessel,CL:0002138,female,eighth decade human stage,European,13
+All — Cells of the adult human heart,D5,interventricular septum,UBERON:0002094,capillary endothelial cell,CL:0002144,female,eighth decade human stage,European,228
+All — Cells of the adult human heart,D5,interventricular septum,UBERON:0002094,neural cell,CL:0002319,female,eighth decade human stage,European,10
+All — Cells of the adult human heart,D5,interventricular septum,UBERON:0002094,"CD14-positive, CD16-positive monocyte",CL:0002397,female,eighth decade human stage,European,2
+All — Cells of the adult human heart,D5,interventricular septum,UBERON:0002094,vein endothelial cell,CL:0002543,female,eighth decade human stage,European,30
+All — Cells of the adult human heart,D5,interventricular septum,UBERON:0002094,epicardial adipocyte,CL:1000309,female,eighth decade human stage,European,2
+All — Cells of the adult human heart,D5,interventricular septum,UBERON:0002094,endothelial cell of artery,CL:1000413,female,eighth decade human stage,European,72

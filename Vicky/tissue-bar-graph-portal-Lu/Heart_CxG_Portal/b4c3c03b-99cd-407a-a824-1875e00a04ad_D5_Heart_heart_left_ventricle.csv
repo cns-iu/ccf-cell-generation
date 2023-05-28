@@ -1,0 +1,27 @@
+dataset_name,donor_id,tissue,tissue_ontology_term_id,cell_type,cell_type_ontology_id,sex,development_stage,race,count
+All — Cells of the adult human heart,D5,heart left ventricle,UBERON:0002084,native cell,CL:0000003,female,eighth decade human stage,European,224
+All — Cells of the adult human heart,D5,heart left ventricle,UBERON:0002084,fibroblast,CL:0000057,female,eighth decade human stage,European,1272
+All — Cells of the adult human heart,D5,heart left ventricle,UBERON:0002084,mesothelial cell,CL:0000077,female,eighth decade human stage,European,8
+All — Cells of the adult human heart,D5,heart left ventricle,UBERON:0002084,mast cell,CL:0000097,female,eighth decade human stage,European,4
+All — Cells of the adult human heart,D5,heart left ventricle,UBERON:0002084,endothelial cell,CL:0000115,female,eighth decade human stage,European,58
+All — Cells of the adult human heart,D5,heart left ventricle,UBERON:0002084,smooth muscle cell,CL:0000192,female,eighth decade human stage,European,87
+All — Cells of the adult human heart,D5,heart left ventricle,UBERON:0002084,macrophage,CL:0000235,female,eighth decade human stage,European,208
+All — Cells of the adult human heart,D5,heart left ventricle,UBERON:0002084,B cell,CL:0000236,female,eighth decade human stage,European,17
+All — Cells of the adult human heart,D5,heart left ventricle,UBERON:0002084,dendritic cell,CL:0000451,female,eighth decade human stage,European,1
+All — Cells of the adult human heart,D5,heart left ventricle,UBERON:0002084,monocyte,CL:0000576,female,eighth decade human stage,European,6
+All — Cells of the adult human heart,D5,heart left ventricle,UBERON:0002084,natural killer cell,CL:0000623,female,eighth decade human stage,European,9
+All — Cells of the adult human heart,D5,heart left ventricle,UBERON:0002084,pericyte,CL:0000669,female,eighth decade human stage,European,759
+All — Cells of the adult human heart,D5,heart left ventricle,UBERON:0002084,"CD8-positive, alpha-beta cytotoxic T cell",CL:0000794,female,eighth decade human stage,European,10
+All — Cells of the adult human heart,D5,heart left ventricle,UBERON:0002084,mature NK T cell,CL:0000814,female,eighth decade human stage,European,4
+All — Cells of the adult human heart,D5,heart left ventricle,UBERON:0002084,"activated CD4-positive, alpha-beta T cell",CL:0000896,female,eighth decade human stage,European,14
+All — Cells of the adult human heart,D5,heart left ventricle,UBERON:0002084,"activated CD8-positive, alpha-beta T cell",CL:0000906,female,eighth decade human stage,European,16
+All — Cells of the adult human heart,D5,heart left ventricle,UBERON:0002084,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,female,eighth decade human stage,European,21
+All — Cells of the adult human heart,D5,heart left ventricle,UBERON:0002084,CD14-positive monocyte,CL:0001054,female,eighth decade human stage,European,1
+All — Cells of the adult human heart,D5,heart left ventricle,UBERON:0002084,regular ventricular cardiac myocyte,CL:0002131,female,eighth decade human stage,European,2916
+All — Cells of the adult human heart,D5,heart left ventricle,UBERON:0002084,endothelial cell of lymphatic vessel,CL:0002138,female,eighth decade human stage,European,20
+All — Cells of the adult human heart,D5,heart left ventricle,UBERON:0002084,capillary endothelial cell,CL:0002144,female,eighth decade human stage,European,456
+All — Cells of the adult human heart,D5,heart left ventricle,UBERON:0002084,neural cell,CL:0002319,female,eighth decade human stage,European,25
+All — Cells of the adult human heart,D5,heart left ventricle,UBERON:0002084,"CD14-positive, CD16-positive monocyte",CL:0002397,female,eighth decade human stage,European,7
+All — Cells of the adult human heart,D5,heart left ventricle,UBERON:0002084,vein endothelial cell,CL:0002543,female,eighth decade human stage,European,84
+All — Cells of the adult human heart,D5,heart left ventricle,UBERON:0002084,epicardial adipocyte,CL:1000309,female,eighth decade human stage,European,49
+All — Cells of the adult human heart,D5,heart left ventricle,UBERON:0002084,endothelial cell of artery,CL:1000413,female,eighth decade human stage,European,139
