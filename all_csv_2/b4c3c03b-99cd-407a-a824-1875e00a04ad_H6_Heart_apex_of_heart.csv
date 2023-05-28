@@ -1,4 +1,4 @@
-dataset_name,donor_id,tissue,tissue_ontology_term_id,cell_type,cell_type_ontology_id,sex,development_stage,race,cell_count
+dataset_name,donor_id,tissue,tissue_ontology_term_id,cell_type,cell_type_ontology_id,sex,development_stage,race,count
 All — Cells of the adult human heart,H6,apex of heart,UBERON:0002098,native cell,CL:0000003,female,fifth decade human stage,European,369
 All — Cells of the adult human heart,H6,apex of heart,UBERON:0002098,fibroblast,CL:0000057,female,fifth decade human stage,European,194
 All — Cells of the adult human heart,H6,apex of heart,UBERON:0002098,mast cell,CL:0000097,female,fifth decade human stage,European,25

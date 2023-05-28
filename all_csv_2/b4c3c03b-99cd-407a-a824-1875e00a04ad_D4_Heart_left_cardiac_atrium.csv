@@ -1,4 +1,4 @@
-dataset_name,donor_id,tissue,tissue_ontology_term_id,cell_type,cell_type_ontology_id,sex,development_stage,race,cell_count
+dataset_name,donor_id,tissue,tissue_ontology_term_id,cell_type,cell_type_ontology_id,sex,development_stage,race,count
 All — Cells of the adult human heart,D4,left cardiac atrium,UBERON:0002079,native cell,CL:0000003,female,eighth decade human stage,European,272
 All — Cells of the adult human heart,D4,left cardiac atrium,UBERON:0002079,fibroblast,CL:0000057,female,eighth decade human stage,European,822
 All — Cells of the adult human heart,D4,left cardiac atrium,UBERON:0002079,mesothelial cell,CL:0000077,female,eighth decade human stage,European,42

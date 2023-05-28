@@ -1,4 +1,4 @@
-dataset_name,donor_id,tissue,tissue_ontology_term_id,cell_type,cell_type_ontology_id,sex,development_stage,race,cell_count
+dataset_name,donor_id,tissue,tissue_ontology_term_id,cell_type,cell_type_ontology_id,sex,development_stage,race,count
 All — Cells of the adult human heart,D5,interventricular septum,UBERON:0002094,native cell,CL:0000003,female,eighth decade human stage,European,295
 All — Cells of the adult human heart,D5,interventricular septum,UBERON:0002094,fibroblast,CL:0000057,female,eighth decade human stage,European,1174
 All — Cells of the adult human heart,D5,interventricular septum,UBERON:0002094,endothelial cell,CL:0000115,female,eighth decade human stage,European,39

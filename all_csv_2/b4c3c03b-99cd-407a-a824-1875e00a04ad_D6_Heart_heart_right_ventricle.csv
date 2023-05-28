@@ -1,4 +1,4 @@
-dataset_name,donor_id,tissue,tissue_ontology_term_id,cell_type,cell_type_ontology_id,sex,development_stage,race,cell_count
+dataset_name,donor_id,tissue,tissue_ontology_term_id,cell_type,cell_type_ontology_id,sex,development_stage,race,count
 All — Cells of the adult human heart,D6,heart right ventricle,UBERON:0002080,native cell,CL:0000003,male,eighth decade human stage,European,1276
 All — Cells of the adult human heart,D6,heart right ventricle,UBERON:0002080,fibroblast,CL:0000057,male,eighth decade human stage,European,619
 All — Cells of the adult human heart,D6,heart right ventricle,UBERON:0002080,mesothelial cell,CL:0000077,male,eighth decade human stage,European,15

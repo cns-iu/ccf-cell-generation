@@ -1,4 +1,4 @@
-dataset_name,donor_id,tissue,tissue_ontology_term_id,cell_type,cell_type_ontology_id,sex,development_stage,race,cell_count
+dataset_name,donor_id,tissue,tissue_ontology_term_id,cell_type,cell_type_ontology_id,sex,development_stage,race,count
 All — Cells of the adult human heart,D11,heart right ventricle,UBERON:0002080,native cell,CL:0000003,female,seventh decade human stage,European,593
 All — Cells of the adult human heart,D11,heart right ventricle,UBERON:0002080,fibroblast,CL:0000057,female,seventh decade human stage,European,867
 All — Cells of the adult human heart,D11,heart right ventricle,UBERON:0002080,mast cell,CL:0000097,female,seventh decade human stage,European,10
