@@ -44,6 +44,7 @@ int main(int argc, char **argv)
     if (!specification_csv.is_open()) throw std::runtime_error("could not open specification table!");
 
     std::string line;
+    // read the header
     std::getline(specification_csv, line);
     std::vector<std::string> row;
     std::string word;
@@ -77,7 +78,7 @@ int main(int argc, char **argv)
         }
 
         // for testing, use count/100
-        count = count / 100;
+        count = count;
         std::cout << "generating " << cell_type << " count " << count << std::endl;
         Surface_mesh mesh = load_mesh(file_path);
         auto points = generate_cells(mesh, count);

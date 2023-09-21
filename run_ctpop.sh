@@ -1,1 +1,2 @@
-./build/generate_cell_ctpop /home/catherine/data/model/plain_manifold_filling_hole_v1.3 ./scripts/csv/specification_VH_F_Kidney_L.csv cell_locations_ctpop_VH_F_Kidney_L.csv
+./build/generate_cell_ctpop ~/data/model/plain_manifold_filling_hole_v1.3 ./scripts/csv/specification_VH_M_renal_pyramid_L_a.csv cell_locations_ctpop_specification_VH_M_renal_pyramid_L_a.csv;
+./build/generate_cell_ctpop ~/data/model/plain_manifold_filling_hole_v1.3 ./scripts/csv/specification_VH_M_outer_cortex_of_kidney_L.csv cell_locations_ctpop_specification_VH_M_outer_cortex_of_kidney_L.csv
